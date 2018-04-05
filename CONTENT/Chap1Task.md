@@ -66,7 +66,9 @@
 
 本章作业陆续花了 2 小时来完成，自己评估算是勉强及格：
 
-- 优：能较准确地定义问题（见 [Tips For Strategy PM · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html) 中的举例），给出的输入条件也比较全面。
+- 优：
+	- 能较准确地定义问题（见 [Tips For Strategy PM · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html) 中的举例），给出的输入条件也比较全面。
+	- 乐意主动搜寻信息，了解更多相关知识。比如在思考视频网站的输入信息时，顺带搜索了一下网站如何采集、使用用户信息。典型的比如 [腾讯隐私政策](http://www.qq.com/privacy.htm)。
 - 缺：由于条件边界太宽，且感觉自己一时穷举不尽，在作业中未给出细致的计算规则，只给出了很模糊的说法。
 
 更多本章反思，可见 [Review · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap1Review.html) 。

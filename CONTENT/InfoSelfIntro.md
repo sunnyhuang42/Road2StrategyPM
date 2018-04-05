@@ -1,4 +1,4 @@
-# 策略产品经理训练营的修炼手记
+# 策略产品经理训练营修炼手记
 
 2018 年春，我参与了策略产品经理训练营。所思所得终要有个出口才心安，索性记录在此。
 
@@ -24,7 +24,7 @@
 
 ## 学习目标
 
-一般不设目标，更习惯使用执行意图：。。，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
+一般不设目标，更习惯使用执行意图：[Study Plan · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoPlanCourseStudy.html) ，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
 
 ## 能分享的话题
 

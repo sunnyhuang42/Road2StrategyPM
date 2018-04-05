@@ -65,7 +65,7 @@
 
 本章作业陆续花了 2 小时来完成，自己评估算是勉强及格：
 
-- 优：能较准确地定义问题（见。。中的举例），给出的输入条件也比较全面。
+- 优：能较准确地定义问题（见 [Tips For Strategy PM · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html) 中的举例），给出的输入条件也比较全面。
 - 缺：由于条件边界太宽，且感觉自己一时穷举不尽，在作业中未给出细致的计算规则，只给出了很模糊的说法。
 
 ## CHANGELOG 

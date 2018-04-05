@@ -2,7 +2,7 @@
 
 ## 学习过程自评
 
-这周是开课第一周，给自己定下的目标是摸索适合自己的学习节奏，初步达成，未来几周可以继续按这个节奏学习：
+这周是开课第一周，给自己定下的目标是摸索适合自己的学习节奏，初步达成，未来几周可以继续按这个节奏学习：[Study Plan · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoPlanCourseStudy.html)。
 
 
 
@@ -17,8 +17,8 @@
 浏览了一圈大伙儿作业，也尝试了一圈三节课的课程，对于策略产品经理的工作和教学产品设计，有了更多的观察和思考，另起两个文档持续积累：
 
 
-- 策略产品经理的工作。。。
-- 教学产品设计：。。。
+- 策略产品经理的工作锦囊：[Tips For Strategy PM · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html)
+- 教学产品设计：[Learn From Sanjieke · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoLearnFromsanjieke.html)
 
 
 ## CHANGELOG 

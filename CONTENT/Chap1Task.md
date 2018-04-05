@@ -6,6 +6,7 @@
 
 > 写出地图产品推荐路线的策略。
 
+
 ### 1. 待解决的问题/目标：
 
 给用户推荐从起点到终点的路线，并令用户可根据不同维度便捷查询、排序，选出心仪路线。
@@ -68,7 +69,10 @@
 - 优：能较准确地定义问题（见 [Tips For Strategy PM · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html) 中的举例），给出的输入条件也比较全面。
 - 缺：由于条件边界太宽，且感觉自己一时穷举不尽，在作业中未给出细致的计算规则，只给出了很模糊的说法。
 
+更多本章反思，可见 [Review · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap1Review.html) 。
+
 ## CHANGELOG 
 
-- 180405 闪闪创建
+- 180405 闪闪优化作业、增补自评
+- 180404 闪闪创建
 

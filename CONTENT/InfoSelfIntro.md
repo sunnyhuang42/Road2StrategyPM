@@ -16,7 +16,7 @@
 
 人如产品，我把自己的特质和能提供的价值整理成了个人使用指南，欢迎各位顺着所列接口来找我共创玩耍：
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan 🏑</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## 学习目标

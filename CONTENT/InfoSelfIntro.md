@@ -14,7 +14,10 @@
 
 近半年还迷上了[跳 swing](http://ishanshan.top/selfedu/YouNeedSwing.html) , 尤其 blues , 貌似群里也有 blues 舞者？找个机会一起跳啊哈哈。
 
-人如产品，我把自己的特质和能提供的价值整理成了个人使用指南：https://github.com/ishanshan/collaborate_ishanshan ，欢迎各位顺着所列接口来找我共创玩耍：）
+人如产品，我把自己的特质和能提供的价值整理成了个人使用指南，欢迎各位顺着所列接口来找我共创玩耍：
+
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## 学习目标
 
@@ -27,8 +30,7 @@
 如何令团队文档更易用易维护易拓展 —— 不搞开发，咱也要有点工程素养 ;-)
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180405 闪闪把行动计划模块迁移成独立文档
-- 180326 闪闪创建 
-
+- 180326 闪闪创建

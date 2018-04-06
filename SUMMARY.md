@@ -5,7 +5,7 @@
 - [Notes](CONTENT/Chap1Notes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
-- [Memo of StrategyPM Course](CONTENT/ChapStrategyPMCourse.md)
+- [Memo of StrategyPM Course](CONTENT/ChapCourseStrategyPM.md)
 	- [Chap1](CONTENT/Chap1.md)
 		- [Task](CONTENT/Chap1Task.md)
 		- [Review](CONTENT/Chap1Review.md)
@@ -24,5 +24,3 @@
 	- Chap6
 		- Task
 		- Review
-
-

@@ -1,15 +1,15 @@
 # Summary
 
-- [Self Intro](CONTENT/InfoSelfIntro.md)
+- [About Me](CONTENT/InfoSelfIntro.md)
 - [Study Plan](CONTENT/InfoPlanCourseStudy.md)
-- Notes
+- [Notes](CONTENT/Chap1Notes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
-- Course Memo
-	- Chap1
+- [Memo of StrategyPM Course](CONTENT/ChapStrategyPMCourse.md)
+	- [Chap1](CONTENT/Chap1.md)
 		- [Task](CONTENT/Chap1Task.md)
 		- [Review](CONTENT/Chap1Review.md)
-	- Chap2
+	- [Chap2](CONTENT/Chap2.md)
 		- Task
 		- Review
 	- Chap3

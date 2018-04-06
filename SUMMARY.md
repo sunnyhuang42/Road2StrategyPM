@@ -2,7 +2,7 @@
 
 - [About Me](CONTENT/InfoSelfIntro.md)
 - [Study Plan](CONTENT/InfoPlanCourseStudy.md)
-- [Notes](CONTENT/Chap1Notes.md)
+- [Notes](CONTENT/ChapNotes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
 - [Memo of StrategyPM Course](CONTENT/ChapCourseStrategyPM.md)

@@ -4,10 +4,7 @@
 
 <br>
 
-Author:
-
-<blockquote class="embedly-card"><h4><a href="https://github.com/ishanshan">ishanshan (闪闪)</a></h4><p>ishanshan has 9 repositories available. Follow their code on GitHub.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+Author: @闪闪-ishanshan
 
 Gitbook: https://ishanshan.gitbooks.io/road2strategypm
 

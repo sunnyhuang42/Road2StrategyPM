@@ -25,7 +25,7 @@
 解决方案：
 
 - 如果要给对方展示，最好直接给出在线查看网址，可自如收缩展开的那种，比如 [百度脑图 - 便捷的思维工具](http://naotu.baidu.com/) （免费），或者 [Mind Mapping Software for Visualizing Ideas | Mindjet MindManager Official Site](https://www.mindjet.com/)（付费）。 # 如果你知道更好的工具，欢迎推荐给我，我很久没用思维导图工具临时搜了这俩……
-- 如果只展示树形结构的内容，直接用 WorkFlowy 即可。
+- 如果只展示树形结构的内容，直接用 [WorkFlowy - Organize your brain.](https://workflowy.com/) 即可。
 - 当然，如果需要定稿留证不能改动的又另当别论。不过产品工作中，应该没谁用思维导图这类过程思考作交付用品吧？
 
 ### 不搞开发，也要有工程素养

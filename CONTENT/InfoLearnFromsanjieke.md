@@ -4,7 +4,7 @@
 
 ## 可圈可点之处
 
-三节课课程界面的信息架构，易给用户全局掌控感，具体见。。。内容呈现方式，和开智类似，也是线性引导、解锁学习。但呈现及交互方式挺友好，不会觉得太碎片。无 App ，但可以在微信服务号上查看课程内容。
+三节课课程界面的信息架构，易给用户全局掌控感，具体见 [Best Practice in Information Architecture · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoBestPracticeIA.html#%E6%8A%80%E8%83%BD%E7%B1%BB%E8%AF%BE%E7%A8%8B%E7%95%8C%E9%9D%A2) 的说明。内容呈现方式，和开智类似，也是线性引导、解锁学习。但呈现及交互方式挺友好，不会觉得太碎片。无 App ，但可以在微信服务号上查看课程内容。
 
 一些可圈可点的细节，由于其版权保护规定，我不便截图举例：
 

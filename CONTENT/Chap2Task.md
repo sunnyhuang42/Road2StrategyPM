@@ -24,6 +24,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+注：下述表格内容需在科学上网模式下才可正常查看。
+
 ## 明确需求理想态
 
 ### 该推荐模块理想态
@@ -131,22 +133,22 @@ phenomenon 7:
 
 ### 问题汇总&需求提炼
 
-（可用上下键查看）
+（可用上下键查看，若无法正常访问，可查看 https://workflowy.com/s/CO_N.7cB1AtAZ6P ）
 
-<iframe  width='750' height='620' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.7cB1AtAZ6P"></iframe>
+<iframe  width='750' height='650' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.7cB1AtAZ6P"></iframe>
 
 
 ## 行动计划
 
 见 [行动计划 - 豆瓣图书推荐模块分析 - Google 表格](https://docs.google.com/spreadsheets/d/1fBABw3ix5p6qpB0-785Oij4DkBrAMARh2IImsZ4jjZU/edit#gid=642992839)：
 
-<iframe width='750' height='420' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT8YEZZgqbPAtc4EFpHqm_nqwq5QcQAB-AFoQ5wJbRGDHNsJXyvbPzHpC-f7yOgi2nI0vFCZeMvD5x/pubhtml?gid=642992839&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='750' height='450' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT8YEZZgqbPAtc4EFpHqm_nqwq5QcQAB-AFoQ5wJbRGDHNsJXyvbPzHpC-f7yOgi2nI0vFCZeMvD5x/pubhtml?gid=642992839&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
 ## Self Review
 
-这回作业花了不少时间，加起来差不多 10 小时吧，中间还不时翻翻大伙儿怎么想的……
+这回作业花了不少时间，加起来差不多 15 小时吧，中间还不时翻翻大伙儿怎么想的……
 
 优点：
 

@@ -13,7 +13,7 @@
 		- [Review](CONTENT/Chap1Review.md)
 	- [Chap2](CONTENT/Chap2.md)
 		- [Task](CONTENT/Chap2Task.md)
-		- [Review](CONTENT/Chap1Review.md)
+		- [Review](CONTENT/Chap2Review.md)
 	- Chap3
 		- Task
 		- Review

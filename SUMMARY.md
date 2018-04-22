@@ -12,8 +12,8 @@
 		- [Task](CONTENT/Chap1Task.md)
 		- [Review](CONTENT/Chap1Review.md)
 	- [Chap2](CONTENT/Chap2.md)
-		- Task
-		- Review
+		- [Task](CONTENT/Chap2Task.md)
+		- [Review](CONTENT/Chap1Review.md)
 	- Chap3
 		- Task
 		- Review

@@ -142,7 +142,7 @@ phenomenon 7:
 
 见 [行动计划 - 豆瓣图书推荐模块分析 - Google 表格](https://docs.google.com/spreadsheets/d/1fBABw3ix5p6qpB0-785Oij4DkBrAMARh2IImsZ4jjZU/edit#gid=642992839)：
 
-<iframe width='750' height='450' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT8YEZZgqbPAtc4EFpHqm_nqwq5QcQAB-AFoQ5wJbRGDHNsJXyvbPzHpC-f7yOgi2nI0vFCZeMvD5x/pubhtml?gid=642992839&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='750' height='500' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT8YEZZgqbPAtc4EFpHqm_nqwq5QcQAB-AFoQ5wJbRGDHNsJXyvbPzHpC-f7yOgi2nI0vFCZeMvD5x/pubhtml?gid=642992839&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 

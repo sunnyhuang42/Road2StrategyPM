@@ -52,7 +52,7 @@
 
 同类产品购买流程调研结果见 [同类平台购物体验-小红书购物流程优化追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=0)：
 
-<iframe iframe width='750' height='700' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=224436884&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe iframe width='750' height='900' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=224436884&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## 需求概述
@@ -80,7 +80,7 @@
 
 ### 1. 增加一键再次下单功能
 
-在已有订单（包括待付款、待收货、已完成、已取消状态）中增加「再次购买」入口，以便用户快速再次下单。具体页面逻辑如下：https://www.processon.com/view/link/5afbd825e4b00268626785ec
+在已有订单（包括待付款、待收货、已完成、已取消状态）中增加「再次购买」入口，以便用户快速再次下单。具体页面逻辑如 https://www.processon.com/view/link/5afbd825e4b00268626785ec ：
 
 
 ![pmcoursech3xhs-1.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-1.png)
@@ -90,7 +90,7 @@
 
 在现有超时自动取消的订单中，97% 的用户没在 120 mins 内回来再次下单，分析原因见 [未二次下单原因分析 - 小红书购买流程优化追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=0)：
 
-<iframe iframe width='750' height='300' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe iframe width='550' height='300' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 由于上述情况后台难以区分，且高挽回难度的情况难以提供效解决方案，故统一按挽回难度低的情况处理。
 
@@ -112,7 +112,7 @@
 
 ### 3. 差异化订单支付时限
 
-结合上述竞品调研结果和小红书已形成的用户认知，拟继续保持 30mins 支付时限，但对不同商品和不同用户按如下规则做微调：https://www.processon.com/view/link/59706f1ee4b01fc0fe2031bc
+结合上述竞品调研结果和小红书已形成的用户认知，拟继续保持 30mins 支付时限，但对不同商品和不同用户按如下规则做微调，见 https://www.processon.com/view/link/59706f1ee4b01fc0fe2031bc ：
 
 ![pmcoursech3xhs-2.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-2.png)
 
@@ -161,7 +161,7 @@
 - 有多个需求时，给出了需求优先级，以便工程组提升 ROI
 
 
-改进：在作业上没想到什么需要改的了……哈哈。不过作业的过程倒是挺多可以改的。更多思考见 [Chap3Review.md](CONTENT/Chap3Review.md)
+改进：在作业上没想到什么需要改的了……哈哈。不过作业的过程倒是挺多可以改的。更多思考见 [Chap3Review.md](Chap3Review.md)
 
 # CHANGELOG 
 

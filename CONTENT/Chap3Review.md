@@ -10,7 +10,7 @@
 
 2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html
 
-3. 亚马逊的客户咨询细节很赞——可以选择邮件发送聊天记录，以备不时之需，且客服相较其它公司更专业。
+3. 亚马逊的客户咨询细节很赞——可以选择邮件发送[聊天记录](https://github.com/ishanshan/Road2StrategyPM/blob/master/CONTENT/Chap3TaskResearchLog.md)，以备不时之需，且客服相较其它公司更专业。
 
 	其结束咨询时页面弹出一个提示，大意是亚马逊力争全球最以客户为中心的公司；看到这个提示时，我觉得他们做到了。且不说有无比他们更周到的公司，他们能让用户发自内心地欣赏、希望他们能做成，就已很厉害。
 

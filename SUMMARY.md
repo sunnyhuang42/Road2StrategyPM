@@ -5,6 +5,7 @@
 - [Notes](CONTENT/ChapNotes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Best Practice in Information Architecture](CONTENT/InfoBestPracticeIA.md) 
+	- [Tips For Competitive Analysis](CONTENT/HbCompetitiveAnalysis.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
 	- [Murmur of Priority in Dev a Product](CONTENT/MurStartupDevPriority.md)
 - [Memo of StrategyPM Course](CONTENT/ChapCourseStrategyPM.md)

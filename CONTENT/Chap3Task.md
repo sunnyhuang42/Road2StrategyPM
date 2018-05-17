@@ -23,6 +23,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+注意：以下表格需在科学上网模式下才可访问。
 
 ---
 
@@ -45,14 +46,14 @@
 
 通过优化购买流程：
 
-1. 提升订单总成交率：从当前成交率 n ，提升到 。。
+1. 提升订单总成交率：使当前成交率 n ，同比增长 5-10% （实际工作中此同比增长数据需根据公司的订单成交率、订单取消率、订单自动取消率、业内中位数调整）
 2. 提升用户购买体验
 
 ## 竞品调研
 
 同类产品购买流程调研结果见 [同类平台购物体验-小红书购物流程优化追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=0)：
 
-<iframe iframe width='750' height='900' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=224436884&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe iframe width='750' height='860' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=224436884&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## 需求概述
@@ -80,17 +81,17 @@
 
 ### 1. 增加一键再次下单功能
 
-在已有订单（包括待付款、待收货、已完成、已取消状态）中增加「再次购买」入口，以便用户快速再次下单。具体页面逻辑如 https://www.processon.com/view/link/5afbd825e4b00268626785ec ：
+在已有订单（包括待付款、待收货、已完成、已取消状态）中增加「再次购买」入口，以便用户快速再次下单。具体页面逻辑如下 ：
 
 
 ![pmcoursech3xhs-1.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-1.png)
-
+（原图地址：https://www.processon.com/view/link/5afbd825e4b00268626785ec ）
 
 ### 2. 增加订单即将超时提醒机制
 
 在现有超时自动取消的订单中，97% 的用户没在 120 mins 内回来再次下单，分析原因见 [未二次下单原因分析 - 小红书购买流程优化追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=0)：
 
-<iframe iframe width='550' height='300' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe iframe width='500' height='300' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzCWGh28gtnVGbt5X63ysl0P3gJYPs-Wb5_9t35MFUpeLIsgpdwinhHROSlSuoyvWg9wb_gup2rFHy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 由于上述情况后台难以区分，且高挽回难度的情况难以提供效解决方案，故统一按挽回难度低的情况处理。
 
@@ -100,7 +101,7 @@
 
 	>你看上的<商品名称>等商品，< N >位小红薯也想要！卖家存货不多，还有< X/2 >分钟订单将自动取消，你再不来支付别人就抢走啦 < orderlink > >_<
 
-	`< >`内容根据订单情况自动替换：
+	`< >` 内容根据订单情况自动替换：
 	
 	- <商品名称> 为订单中月销量最大的商品名称
 	- < N > 为订单所有商品在小红书平台呢加入购物车件数总量
@@ -112,15 +113,26 @@
 
 ### 3. 差异化订单支付时限
 
-结合上述竞品调研结果和小红书已形成的用户认知，拟继续保持 30mins 支付时限，但对不同商品和不同用户按如下规则做微调，见 https://www.processon.com/view/link/59706f1ee4b01fc0fe2031bc ：
+出于释放库存的考虑，下了订单后，这个库存被暂时锁定，方便库存计算，防止大量并发库存不够用，同时也防止长期占用库存，导致库存计算困难，这个需求是时间越短越好。
 
-![pmcoursech3xhs-2.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-2.png)
+但结合上述竞品调研结果和小红书已形成的用户认知，拟继续保持 30mins 支付时限。不过对不同商品和不同用户按如下规则做微调，见下述支付时限判断规则：
+
+![pmcoursech3xhs-4.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-4.png)
+（原图地址：https://www.processon.com/view/link/59706f1ee4b01fc0fe2031bc ） 
 
 浮框提示文案：
 
-> 订单中有抢手商品，X 分钟内未支付，订单将自动取消。别让心仪的 ta 被别人抢走啦！
+- 1：
 
->（选项） 去付款 再等等
+	> 您刚才选择的商品没有支付成，已生成订单，请在 30 分钟内完成支付，避免宝贝贝抢完啦。
+
+	>（选项） 去付款 再等等
+
+- 2：
+
+	> 订单中有抢手商品，X 分钟内未支付，订单将自动取消。别让心仪的 ta 被别人抢走啦！
+
+	>（选项） 去付款 再等等
 
 
 ### 4. 统计需求
@@ -161,10 +173,11 @@
 - 有多个需求时，给出了需求优先级，以便工程组提升 ROI
 
 
-改进：在作业上没想到什么需要改的了……哈哈。不过作业的过程倒是挺多可以改的。更多思考见 [Chap3Review.md](Chap3Review.md)
+改进：在作业上没想到什么必须改的了……哈哈。不过作业的过程倒是挺多教训的，更多思考见 https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap3Review.html 。
 
 # CHANGELOG 
 
+- 180517 闪闪修正细节
 - 180516 闪闪更新初稿
 - 180514 闪闪创建
 

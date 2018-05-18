@@ -18,10 +18,10 @@
 	- [Chap3](CONTENT/Chap3.md)
 		- [Task](CONTENT/Chap3Task.md)
 		- [Review](CONTENT/Chap3Review.md)
-	- Chap4
+	- [Chap4](CONTENT/Chap4.md)
 		- Task
 		- Review
-	- Chap5
+	- [Chap5](CONTENT/Chap5.md)
 		- Task
 		- Review
 	- Chap6

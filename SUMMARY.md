@@ -19,7 +19,7 @@
 		- [Task](CONTENT/Chap3Task.md)
 		- [Review](CONTENT/Chap3Review.md)
 	- [Chap4](CONTENT/Chap4.md)
-		- Task
+		- [Task](CONTENT/Chap4Task.md)
 		- Review
 	- [Chap5](CONTENT/Chap5.md)
 		- Task

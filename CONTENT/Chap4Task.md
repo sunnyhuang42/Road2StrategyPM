@@ -52,11 +52,11 @@
 
 ## 分析结果综述
 
-现有的需求理解策略基本能满足需求，不尽快优化也没关系。
+现有的需求理解策略基本能满足大众用户需求，不尽快优化尚无大碍。
 
-如果想让这个模块对整个产品产生更大的价值，建议做如下调整，见 [ProjectPriority - 微博搜索竞品分析追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1C59UgiXD8LW5CS9wNG3kB17_UvTVgJeKZF0ZudDigaQ/edit#gid=470309809) ：
+如果想让这个模块对整个产品产生更大的价值，建议做这些调整，见 [ProjectPriority - 微博搜索竞品分析追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1C59UgiXD8LW5CS9wNG3kB17_UvTVgJeKZF0ZudDigaQ/edit#gid=1691955735) ：
 
-<iframe width='750' height='300' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_kco1oSm4nZLayKebJrDQ4wJ6gdPRly8tzg_OiNT1Km6y9ok2Vq4l39PB2ow8njYf0UY7Ewi2a-qr/pubhtml?gid=470309809&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='750' height='290' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_kco1oSm4nZLayKebJrDQ4wJ6gdPRly8tzg_OiNT1Km6y9ok2Vq4l39PB2ow8njYf0UY7Ewi2a-qr/pubhtml?gid=1691955735&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## 分析详述
 
@@ -180,9 +180,9 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 
 ### 梳理需求优先级
 
-优先级判断主要考虑以下角度：问题严重/重要程度、问题影响面、解决成本、预期解决比例，由于预期解决比例难以评估，故分析中略去。综合梳理得出微博搜索模块值得做的调整和优先级，详见「分析结果概述」内容。
+优先级判断主要考虑以下角度：问题严重/重要程度、问题影响面、解决成本、预期解决比例，由于预期解决比例难以评估，故分析中略去。综合梳理得出微博搜索模块值得做的调整和优先级，详见[ProjectPriorityV0 - 微博搜索竞品分析追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1C59UgiXD8LW5CS9wNG3kB17_UvTVgJeKZF0ZudDigaQ/edit#gid=470309809) ：
 
-
+<iframe width='750' height='290' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_kco1oSm4nZLayKebJrDQ4wJ6gdPRly8tzg_OiNT1Km6y9ok2Vq4l39PB2ow8njYf0UY7Ewi2a-qr/pubhtml?gid=470309809&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Self Review
 

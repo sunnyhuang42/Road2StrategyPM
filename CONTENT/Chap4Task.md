@@ -204,7 +204,7 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 
 PS.
 
-调研过程翻到不少和微博搜索相关的评论、新闻，把有意思的附在这里，以备日后取用，也供感兴趣的朋友了解：
+调研过程翻到不少有意思的评论、新闻，有助思考微博及微博搜索模块当如何调整。现把上文未列出的附在这里，以备日后取用，也供感兴趣的朋友了解：
 
 * Hallanan, L. (2017, October 19). Weibo is NOT China’s Twitter! Retrieved  from http://www.parklu.com/weibo-not-chinas-twitter/
 * Twitter工程师眼中的新浪微博-搜狐IT. (n.d.). Retrieved  from http://it.sohu.com/20130510/n375396327.shtml

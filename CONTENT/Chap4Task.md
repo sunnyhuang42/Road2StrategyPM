@@ -208,7 +208,6 @@ PS.
 
 * Hallanan, L. (2017, October 19). Weibo is NOT China’s Twitter! Retrieved  from http://www.parklu.com/weibo-not-chinas-twitter/
 * Twitter工程师眼中的新浪微博-搜狐IT. (n.d.). Retrieved  from http://it.sohu.com/20130510/n375396327.shtml
-* FacebookGraphSearch - GetIt01. (n.d.). Retrieved  from https://www.getit01.com/tag/FacebookGraphSearch/
 * 叶施仁, 严水歌, & 杨长春. (2013). 新浪微博搜索排序方法研究. 常州大学学报(自然科学版), (03), 71–75. Retrieved from http://oversea.cnki.net/kcms/detail/detailall.aspx?filename=jssy201303019&dbcode=CJFQ&dbname=CJFQTOTAL
 - Graph Search
 	* Facebook Announces Its Third Pillar “Graph Search” That Gives You Answers, Not Links Like Google. (2013, January 15). Retrieved  from http://social.techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/

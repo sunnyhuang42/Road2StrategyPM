@@ -208,11 +208,18 @@ PS.
 
 * Hallanan, L. (2017, October 19). Weibo is NOT China’s Twitter! Retrieved  from http://www.parklu.com/weibo-not-chinas-twitter/
 * Twitter工程师眼中的新浪微博-搜狐IT. (n.d.). Retrieved  from http://it.sohu.com/20130510/n375396327.shtml
-* Facebook Announces Its Third Pillar “Graph Search” That Gives You Answers, Not Links Like Google. (2013, January 15). Retrieved  from http://social.techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/
-* Walker, L. (n.d.-a). Facebook Search: A Complete Beginner’s Guide. Retrieved  from https://www.lifewire.com/facebook-search-guide-to-searching-facebook-2654608
-* Walker, L. (n.d.-b). Find Out How Graph Search on Facebook Works for You. Retrieved  from https://www.lifewire.com/facebook-advanced-search-tips-2653972
 * FacebookGraphSearch - GetIt01. (n.d.). Retrieved  from https://www.getit01.com/tag/FacebookGraphSearch/
-* Facebook 能搜索。新浪微博能搜索么？. (2013, January 16). Retrieved  from http://www.ifanr.com/235818
+* 叶施仁, 严水歌, & 杨长春. (2013). 新浪微博搜索排序方法研究. 常州大学学报(自然科学版), (03), 71–75. Retrieved from http://oversea.cnki.net/kcms/detail/detailall.aspx?filename=jssy201303019&dbcode=CJFQ&dbname=CJFQTOTAL
+- Graph Search
+	* Facebook Announces Its Third Pillar “Graph Search” That Gives You Answers, Not Links Like Google. (2013, January 15). Retrieved  from http://social.techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/
+	* Walker, L. (n.d.-a). Facebook Search: A Complete Beginner’s Guide. Retrieved  from https://www.lifewire.com/facebook-search-guide-to-searching-facebook-2654608
+	* Walker, L. (n.d.-b). Find Out How Graph Search on Facebook Works for You. Retrieved  from https://www.lifewire.com/facebook-advanced-search-tips-2653972
+	* FacebookGraphSearch - GetIt01. (n.d.). Retrieved  from https://www.getit01.com/tag/FacebookGraphSearch/
+	* Facebook 能搜索。新浪微博能搜索么？. (2013, January 16). Retrieved  from http://www.ifanr.com/235818
+- 新浪用户行为报告
+	* 2016微博用户发展报告.pdf. (n.d.). Retrieved from http://data.weibo.com/report/file/view?download_name=3b895b5c-6010-f5fb-8001-a1e9d14d7bc4&file-type=.pdf
+	* 2017科技用户分析报告.pdf. (n.d.). Retrieved from http://data.weibo.com/report/file/view?download_name=3aa1aa9d-2b77-1034-9a3c-7c809d005963&file-type=.pdf
+	* 微博化妆品报告.pdf. (n.d.). Retrieved from http://data.weibo.com/report/file/view?download_name=153a3e47-c4b7-dcc5-2690-f2ee73162d41&file-type=.pdf
 
 
 # CHANGELOG 

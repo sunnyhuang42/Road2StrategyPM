@@ -202,8 +202,22 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 - 对具体排序策略可以测得细致。但情况太多穷举不尽，且时间有限就先这样吧。实际工作中可以找 RD 一起测试分析，他经验丰富更能精准摸出具体算法规则。
 - 对于新功能新场景的畅想可以更开阔，这才是创造产品的乐趣源泉嘛。
 
+PS.
+
+调研过程翻到不少和微博搜索相关的评论、新闻，附在这里，以备日后取用，也供感兴趣的朋友了解：
+
+* Hallanan, L. (2017, October 19). Weibo is NOT China’s Twitter! Retrieved  from http://www.parklu.com/weibo-not-chinas-twitter/
+* Twitter工程师眼中的新浪微博-搜狐IT. (n.d.). Retrieved  from http://it.sohu.com/20130510/n375396327.shtml
+* Facebook Announces Its Third Pillar “Graph Search” That Gives You Answers, Not Links Like Google. (2013, January 15). Retrieved  from http://social.techcrunch.com/2013/01/15/facebook-announces-its-third-pillar-graph-search/
+* Walker, L. (n.d.-a). Facebook Search: A Complete Beginner’s Guide. Retrieved  from https://www.lifewire.com/facebook-search-guide-to-searching-facebook-2654608
+* Walker, L. (n.d.-b). Find Out How Graph Search on Facebook Works for You. Retrieved  from https://www.lifewire.com/facebook-advanced-search-tips-2653972
+* FacebookGraphSearch - GetIt01. (n.d.). Retrieved  from https://www.getit01.com/tag/FacebookGraphSearch/
+* Facebook 能搜索。新浪微博能搜索么？. (2013, January 16). Retrieved  from http://www.ifanr.com/235818
+
+
 # CHANGELOG 
 
+- 180524 闪闪增补 PS
 - 180523 闪闪完善正文、增补数据和配图
 - 180522 闪闪更新分析框架
 - 180520 闪闪创建

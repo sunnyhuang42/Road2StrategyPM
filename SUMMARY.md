@@ -22,10 +22,10 @@
 		- [Task](CONTENT/Chap4Task.md)
 		- Review
 	- [Chap5](CONTENT/Chap5.md)
-		- Task
+		- [Task](CONTENT/Chap5Task.md)
 		- Review
 	- [Final](CONTENT/Chap6.md)
-		- Task
+		- [Task](CONTENT/Chap6Task.md)
 		- Review
 
 

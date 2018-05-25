@@ -24,7 +24,7 @@
 	- [Chap5](CONTENT/Chap5.md)
 		- Task
 		- Review
-	- Chap6
+	- [Final](CONTENT/Chap6.md)
 		- Task
 		- Review
 

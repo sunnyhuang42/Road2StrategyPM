@@ -4,12 +4,12 @@
 
 ## 项目背景
 
-在后台随机抽取的 200 个 query ，识别为天气需求的召回率是。。准确率是。。。。仔细分析发现，可以优化天气 query 识别策略，让用户觉得百度搜索更智能。
+在后台随机抽取的 200 个 query ，识别为天气需求的召回率是 77.8% ，准确率是 84.8% 。仔细分析[相应 query](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=110956497) 发现，可以优化天气 query 识别策略，让用户觉得百度搜索更智能。
 
 ## 项目目标
 
-- 对天气查询需求强相关的 query ，召回率提升到。。，准确率提升到。。。
-- 对天气查询需求弱相关的 query ，提供对应天气结果，实现。。的召回率，。。的准确率
+- 对天气查询需求强相关的 query ，召回率提升到至少 90%，准确率提升到至少 90% 。
+- 对天气查询需求弱相关的 query ，提供对应天气结果，实现 85% 的召回率，85% 的准确率。
 
 ## 需求概述
 
@@ -50,17 +50,19 @@
 
 #### 3. 具体判断策略和所需词库
 
-见表。。。
+具体判断策略见 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)。
+
+所需词库见：https://workflowy.com/s/CO_N.3ALpvOYmXo 。
  
 ### 具体需求
 
 #### 1. 建立和完善对应词典
 
-需完善以下词典，见表。。。
+需完善以下词典，见：https://workflowy.com/s/CO_N.3ALpvOYmXo 。
 
 #### 2. 调整展示策略
 
-具体见表。。。
+具体见表 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)。
 
 #### 3. 修改前端样式
 

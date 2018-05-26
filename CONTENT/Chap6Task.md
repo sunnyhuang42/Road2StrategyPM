@@ -19,6 +19,7 @@
       - [1. 天气查询需求可能来自哪些场景？](#1-%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2%E9%9C%80%E6%B1%82%E5%8F%AF%E8%83%BD%E6%9D%A5%E8%87%AA%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF)
       - [2. 这些场景如何展示天气结果？](#2-%E8%BF%99%E4%BA%9B%E5%9C%BA%E6%99%AF%E5%A6%82%E4%BD%95%E5%B1%95%E7%A4%BA%E5%A4%A9%E6%B0%94%E7%BB%93%E6%9E%9C)
       - [3. 具体判断策略和所需词库](#3-%E5%85%B7%E4%BD%93%E5%88%A4%E6%96%AD%E7%AD%96%E7%95%A5%E5%92%8C%E6%89%80%E9%9C%80%E8%AF%8D%E5%BA%93)
+      - [3. 具体判断策略和所需词典](#3-%E5%85%B7%E4%BD%93%E5%88%A4%E6%96%AD%E7%AD%96%E7%95%A5%E5%92%8C%E6%89%80%E9%9C%80%E8%AF%8D%E5%85%B8)
     - [需求](#%E9%9C%80%E6%B1%82)
       - [1. 建立和完善对应词典](#1-%E5%BB%BA%E7%AB%8B%E5%92%8C%E5%AE%8C%E5%96%84%E5%AF%B9%E5%BA%94%E8%AF%8D%E5%85%B8)
       - [2. 调整展示策略](#2-%E8%B0%83%E6%95%B4%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5)
@@ -90,7 +91,7 @@
 	![coursespm-weathersearch2.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch2.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
 
 
-#### 3. 具体判断策略和所需词库
+#### 3. 具体判断策略和所需词典
 
 具体判断策略见 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)：
 

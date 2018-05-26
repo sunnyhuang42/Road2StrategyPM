@@ -1,10 +1,42 @@
+
+
 # 毕业设计
+
+> Task：经过了一段时间的训练，你终于成为了百度搜索的策略产品经理。你决定从一个优化词着手开始动手，并在后台随机抽取了200个 query （标记为1的是被机器标记为「天气」的）。请选择一部分的需求，完成一个开发量 2 周，适中版本的 PRD 设计。
+
+直达电梯：
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [优化天气 query 识别策略 PRD](#%E4%BC%98%E5%8C%96%E5%A4%A9%E6%B0%94-query-%E8%AF%86%E5%88%AB%E7%AD%96%E7%95%A5-prd)
+  - [项目背景](#%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF)
+  - [项目目标](#%E9%A1%B9%E7%9B%AE%E7%9B%AE%E6%A0%87)
+  - [需求概述](#%E9%9C%80%E6%B1%82%E6%A6%82%E8%BF%B0)
+  - [需求详述](#%E9%9C%80%E6%B1%82%E8%AF%A6%E8%BF%B0)
+    - [本轮优化后，「天气查询 query」识别和展示策略介绍](#%E6%9C%AC%E8%BD%AE%E4%BC%98%E5%8C%96%E5%90%8E%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2-query%E8%AF%86%E5%88%AB%E5%92%8C%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5%E4%BB%8B%E7%BB%8D)
+      - [1. 天气查询需求可能来自哪些场景？](#1-%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2%E9%9C%80%E6%B1%82%E5%8F%AF%E8%83%BD%E6%9D%A5%E8%87%AA%E5%93%AA%E4%BA%9B%E5%9C%BA%E6%99%AF)
+      - [2. 这些场景如何展示天气结果？](#2-%E8%BF%99%E4%BA%9B%E5%9C%BA%E6%99%AF%E5%A6%82%E4%BD%95%E5%B1%95%E7%A4%BA%E5%A4%A9%E6%B0%94%E7%BB%93%E6%9E%9C)
+      - [3. 具体判断策略和所需词库](#3-%E5%85%B7%E4%BD%93%E5%88%A4%E6%96%AD%E7%AD%96%E7%95%A5%E5%92%8C%E6%89%80%E9%9C%80%E8%AF%8D%E5%BA%93)
+  - [需求](#%E9%9C%80%E6%B1%82)
+      - [1. 建立和完善对应词典](#1-%E5%BB%BA%E7%AB%8B%E5%92%8C%E5%AE%8C%E5%96%84%E5%AF%B9%E5%BA%94%E8%AF%8D%E5%85%B8)
+      - [2. 调整展示策略](#2-%E8%B0%83%E6%95%B4%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5)
+      - [3. 修改前端样式](#3-%E4%BF%AE%E6%94%B9%E5%89%8D%E7%AB%AF%E6%A0%B7%E5%BC%8F)
+      - [4. 统计需求](#4-%E7%BB%9F%E8%AE%A1%E9%9C%80%E6%B1%82)
+- [Self Review](#self-review)
+- [CHANGELOG](#changelog)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+注：下述表格需科学上网才可访问。
 
 # 优化天气 query 识别策略 PRD
 
+
 ## 项目背景
 
-在后台随机抽取的 200 个 query ，识别为天气需求的召回率是 77.8% ，准确率是 84.8% 。仔细分析[相应 query](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=110956497) 发现，可以优化天气 query 识别策略，让用户觉得百度搜索更智能。
+近期分析在后台[随机抽取的 200 个 query](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=110956497) ，发现识别为天气需求的召回率是 77.8% ，准确率是 84.8% 。仔细分析相应 query ，发现可以优化天气 query 识别策略，让用户觉得百度搜索更智能。
 
 ## 项目目标
 
@@ -35,58 +67,76 @@
 
 用户了解天气的需求一般来自以下情景：
   
-- 直接表达的，该类 query 一般包含 X + Y term 。Y term 为天气查询词汇、体感词汇或天气现象词汇。比如。。。 。
+- 直接表达的，该类 query 一般包含 X + Y term 。Y term 为天气查询词汇、体感词汇或天气现象词汇。比如 `广州现在冷不冷`（no62）、`北京明天下雨吗`（no121）、`九寨沟现在温度如何`（no192）等。
 
-	但不少歌词等综艺影视词汇或论文中也可能出现上述 term 组合，所以判断是否为天气查询需求前，需排查不含综艺影视词典和论文词典。比如。。。
+	但不少歌词等综艺影视词汇或论文中也可能出现上述 term 组合，所以判断是否为天气查询需求前，需排查不含综艺影视词典和论文词典。比如 `试论我国大陆电视台天气预报节目的发展——兼谈与美国电视台天气预报节目的比较` (no110)。
 
 - 其它希望了解天气情况的场景，主要为出行需求，比如商旅访友等，都可能要了解穿什么衣服、要不要带伞、防晒够不够等。
 
-	那问题就比较简单了——如何判断出行？当用查询 X term +衣食住行时，就可能有出行。比如。。。
+	那问题就比较简单了——如何判断出行？当用查询 X term +衣食住行时，就可能有出行。比如 `去华山需要准备什么衣服`（no63），`海口现在穿什么衣服合适`（no103），`大连自驾游`（no13），`杭州西湖四星级附近的酒店`（no116），`青海西宁五星级酒店`（no177）等。
+
+
 
 #### 2. 这些场景如何展示天气结果？
 
-- 直接表达的，保证搜索结果首条结果即可概览天气预报，效果图详见。。。
-- 了解到用户有出行需求的，则在侧边栏展示天气概况，不影响现行主体排序结果。效果图详见。。。
+- 直接表达的，保证搜索结果首条结果即可概览天气预报，且可直接查询天气，demo：
+	
+	![coursespm-weathersearch1.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch1.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+	
+	![coursespm-weathersearch.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+	
+- 推测用户有出行需求的，则在侧边栏展示天气概况，不影响现行主体排序结果。demo：
+
+	![coursespm-weathersearch2.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch2.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+
 
 #### 3. 具体判断策略和所需词库
 
-具体判断策略见 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)。
+具体判断策略见 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)：
 
-所需词库见：https://workflowy.com/s/CO_N.3ALpvOYmXo 。
+
+
+所需词库见 [需完善的词典 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1359304541)：
+
+<iframe width='750' height='520' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=1359304541&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  
-### 具体需求
+### 需求
 
 #### 1. 建立和完善对应词典
 
-需完善以下词典，见：https://workflowy.com/s/CO_N.3ALpvOYmXo 。
+需完善对应词典，见上述 [需完善的词典 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1359304541)。
 
 #### 2. 调整展示策略
 
-具体见表 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)。
+具体见上述 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)。
 
 #### 3. 修改前端样式
 
-需按上述示意图更新 UI 并部署到前端
+需按上述示意图更新 UI 并部署到前端。
 
 #### 4. 统计需求
 
-新策略上线后，统计被识别为 天气需求① 与 天气需求② 的 query 。
+先小流量上线，统计被识别为 `天气需求 1`（含1-0与1-1）  与 `天气需求 2`（含2-0与2-1） 的 query 。效果回归，召回率和准确率达标后，再全流量上线。
 
 
 # Self Review
 
+这回作业用了 10h 左右，主要花在作图、整表格、调样式什么的。想清楚词汇分类匹配规则后，感觉其它都是体力活……
+
 优点：
 
 - 用演绎法而非归纳法思考需求识别策略，再从抽样 case 中验证策略是否可行，这样解决问题更高效
+- 用表格解决各类词汇排列组合问题，避免遗漏和混乱
 - 不仅考虑了需求识别策略，还考虑了展示策略，完整优化用户体验
 
 
-改进：
+疑问：判断 query 是否属于综艺影视类目或论文类目，只能从词库排查吗？这词库维护成本得多大啊……可否从返回页面的的类型比例判断？不过查了搜索引擎工作原理，好像建页面索引时，并没有收录页面属于什么类目……
 
-待我想想……哈哈
+
 
 # CHANGELOG 
 
+- 180526 闪闪增补图片、例子，优化格式
 - 180525 闪闪更新初稿
 - 180524 闪闪创建 
 

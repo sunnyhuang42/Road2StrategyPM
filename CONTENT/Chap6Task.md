@@ -94,6 +94,7 @@
 
 具体判断策略见 [词汇分类识别规则 - 优化百度搜索「天气需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=513869170)：
 
+<iframe width='750' height='480' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=513869170&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 所需词库见 [需完善的词典 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1359304541)：

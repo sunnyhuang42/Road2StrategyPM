@@ -10,6 +10,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [蜗牛阅读增长方案](#%E8%9C%97%E7%89%9B%E9%98%85%E8%AF%BB%E5%A2%9E%E9%95%BF%E6%96%B9%E6%A1%88)
+  - [方案背景](#%E6%96%B9%E6%A1%88%E8%83%8C%E6%99%AF)
   - [方案目标](#%E6%96%B9%E6%A1%88%E7%9B%AE%E6%A0%87)
   - [方案概述](#%E6%96%B9%E6%A1%88%E6%A6%82%E8%BF%B0)
   - [方案详述](#%E6%96%B9%E6%A1%88%E8%AF%A6%E8%BF%B0)

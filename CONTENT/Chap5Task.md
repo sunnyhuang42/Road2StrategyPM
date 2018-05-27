@@ -81,6 +81,8 @@
 <iframe width='750' height='800' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
+可用一个月测试出最优组合，再在更多城市推行。
+
 
 另，如果希望 App 下载量也增加，可在用户阅读 15 分钟后（具体多少分钟合适，待测试决定），提示进入 App 才可继续阅读。但不建议这么做，现阶段先增加用户数就好——用户觉得这里的书的确不错值得看，自会寻求更好的阅读体验而下载 App 。
 

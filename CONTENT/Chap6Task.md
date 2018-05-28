@@ -109,7 +109,7 @@
 <iframe width='750' height='470' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=513869170&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
-所需词库见 [需完善的词典 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1359304541)：
+所需词典见 [需完善的词典 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1359304541)：
 
 <iframe width='750' height='550' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=1359304541&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  
@@ -143,7 +143,7 @@
 - 不仅考虑了需求识别策略，还考虑了展示策略，完整优化用户体验
 
 
-疑问：判断 query 是否属于综艺影视类目或论文类目，只能从词库排查吗？这词库维护成本得多大啊……可否从返回页面的的类型比例判断？不过查了搜索引擎工作原理，好像建页面索引时，并没有收录页面属于什么类目……
+疑问：判断 query 是否属于综艺影视类目或论文类目，只能从词典排查吗？这词典维护成本得多大啊……可否从返回页面的的类型比例判断？不过查了搜索引擎工作原理，好像建页面索引时，并没有收录页面属于什么类目……
 
 
 

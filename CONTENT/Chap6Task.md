@@ -36,18 +36,28 @@
 
 ## 项目背景
 
-近期分析在后台[随机抽取的 200 个 query](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=110956497) ，发现识别为天气需求的召回率是 77.8% ，准确率是 84.8% 。仔细分析相应 query ，发现可以优化天气 query 识别策略，让用户觉得百度搜索更智能。
+近期分析在后台[随机抽取的 200 个 query](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=110956497) ，发现识别为天气需求的准确率是 77.78% ，若算上可能有天气查询需求（比如用户可能有出行需求）的 query ，召回率不到 40% 。对抽样 query 的统计分析见 [query 分类及召回率、准确率统计 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1787312842) ：
+
+<iframe width='750' height='820' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=1787312842&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+若希望用户觉得百度搜索更智能，需优化天气 query 识别策略。综合问题影响面、问题严重程度、问题解决难度和预期解决比例考虑，行动优先级见[行动优先级 - 优化百度搜索「天气查询需求识别策略」追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1U1PrMPZmAJCmbiAAuFg0G0XoVV7xT2pxjgjSDjJwEYE/edit#gid=1298137968)：
+
+<iframe width='750' height='330' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-40rEhalEb17-koMt983rCxmJ6Uu-HenEwmhzrfDT_2IysZPCy5enl4g4kH37VdrfwD33JJjMfae_/pubhtml?gid=1298137968&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+若只有两周开发时间，拟先完成优先级为中、高的行动。具体需求如下：
+
+
 
 ## 项目目标
 
-- 对天气查询需求强相关的 query ，召回率提升到至少 90%，准确率提升到至少 90% 。
-- 对天气查询需求弱相关的 query ，提供对应天气结果，实现 85% 的召回率，85% 的准确率。
+- 对天气查询需求强相关的 query ，准确率提升到至少 90%，召回率提升到至少 90% 。
+- 对天气查询需求弱相关的 query ，实现 80% 的准确率， 70% 的召回率。（若需求用户表达方式变数更大，所以目标设定较低）
 
 ## 需求概述
 
 - 提升天气需求强相关 query 的准确率和召回率
 	- 准确率：检查完善对应类目词典，保证不属于天气需求，但又包含天气相关词汇的 query 不被识别成天气需求
-	- 召回率：建立出行词典，识别更多有天气需求的口语化 query 
+	- 召回率：建立对应词典识别出行需求，识别更多可能有天气查询需求的 query 
 - 调整天气需求理解规则和展示策略
 	- 与天气查询强相关的 query ，保证搜索结果首条结果即可概览天气预报
 	- 与天气查询弱相关的 query ，侧边栏提供简要天气预报信息，查询结果主体按现行规则展示
@@ -56,6 +66,8 @@
 	- 缩短天气查询步长：与天气查询强相关的 query ，搜索结果首页即有输入框可更换查询地名
 
 ## 需求详述
+
+先来整体了解一下这轮调整的 big picture：
 
 ### 本轮优化后，「天气查询 query」识别和展示策略介绍
 
@@ -137,6 +149,7 @@
 
 # CHANGELOG 
 
+- 180528 闪闪在项目背景中增补 query  分析表及优先级判断
 - 180526 闪闪增补图片、例子，优化格式
 - 180525 闪闪更新初稿
 - 180524 闪闪创建 

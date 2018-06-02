@@ -99,7 +99,7 @@
 
 上述竞品产品特性对比见 [竞品功能对比 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1751243137)：
 
-<iframe width='750' height='650' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1751243137&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='770' height='650' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1751243137&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 从上表中发现，常规选书、读书流程中的功能，同类平台也多少都有。某个阅读应用若想从产品功能上让用户有什么离不开的理由，很难。
 
@@ -384,11 +384,11 @@
 	- **用例**：用户在合作平台消费后就收到和用户行为对应的蜗牛读书推荐信息及入口，点击即可进入蜗牛读书领取福利。即 `收到匹配自己行为特征的活动信息>进入活动入口>选择（感兴趣的主题和）图书>阅读` 。比如某用户在高铁管家上买了一张北京到上海的高铁票，商务座，购票成功后，即收到高铁管家弹出的、针对注重效率人群的读书福利消息，点击即可进入对应页面领取。
 	- **不同用户活动消息的投放规则**见[与出行平台合作广告投放策略-「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
 	  
-	  <iframe width='750' height='350' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1011970681&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	  <iframe width='770' height='350' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1011970681&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 	  
 	- **福利领取规则**：出行时间就可免费读全场蜗牛图书。蜗牛读书免费用户和付费用户领取时长的计算规则见 [和出行平台合作活动规则 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
 	
-		<iframe width='750' height='270' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1442002300&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		<iframe width='770' height='270' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1442002300&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 		
 	- **活动时机**：若要上线该 campaign ，需蜗牛阅读满足以下条件
 		- 可从 web 版选择感兴趣的主题、选书（降低用户进入门槛）
@@ -448,7 +448,7 @@
 
 综上，若采取该方案，未来半年各阶段团队不同角色的工作重点见 [未来半年各角色工作重心安排 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1335474941)：
 
-<iframe width='750' height='620' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1335474941&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='770' height='650' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1335474941&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 更往后的规划，需要了解这半年的市场反馈才能决策。
 

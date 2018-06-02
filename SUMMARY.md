@@ -1,7 +1,6 @@
 # Summary
 
 - [About Me](CONTENT/InfoSelfIntro.md)
-- [Study Plan](CONTENT/InfoPlanCourseStudy.md)
 - [Notes](CONTENT/ChapNotes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Best Practice in Information Architecture](CONTENT/InfoBestPracticeIA.md) 
@@ -9,23 +8,24 @@
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
 	- [Murmur of Priority in Developing a Product](CONTENT/MurStartupDevPriority.md)
 - [Memo of StrategyPM Course](CONTENT/ChapCourseStrategyPM.md)
-	- [Chap1](CONTENT/Chap1.md)
-		- [Task](CONTENT/Chap1Task.md)
-		- [Review](CONTENT/Chap1Review.md)
-	- [Chap2](CONTENT/Chap2.md)
-		- [Task](CONTENT/Chap2Task.md)
-		- [Review](CONTENT/Chap2Review.md)
-	- [Chap3](CONTENT/Chap3.md)
-		- [Task](CONTENT/Chap3Task.md)
-		- [Review](CONTENT/Chap3Review.md)
-	- [Chap4](CONTENT/Chap4.md)
-		- [Task](CONTENT/Chap4Task.md)
-		- Review
-	- [Chap5](CONTENT/Chap5.md)
-		- [Task](CONTENT/Chap5Task.md)
-		- Review
-	- [Final](CONTENT/Chap6.md)
-		- [Task](CONTENT/Chap6Task.md)
-		- Review
+	- [Study Plan](CONTENT/InfoPlanCourseStudy.md)
+	- [Chap1:了解策略和策略产品](CONTENT/Chap1.md)
+		- [Task:分析两个功能中的策略四要素](CONTENT/Chap1Task.md)
+		- [学习复盘](CONTENT/Chap1Review.md)
+	- [Chap2:策略产品发现问题的四个方法](CONTENT/Chap2.md)
+		- [Task:优化豆瓣图书推荐效果](CONTENT/Chap2Task.md)
+		- [学习复盘](CONTENT/Chap2Review.md)
+	- [Chap3:策略产品工作的通用方法论](CONTENT/Chap3.md)
+		- [Task:优化小红书购买流程](CONTENT/Chap3Task.md)
+		- [学习复盘](CONTENT/Chap3Review.md)
+	- [Chap4:策略在核心业务上的应用](CONTENT/Chap4.md)
+		- [Task:分析「微博搜索」功能](CONTENT/Chap4Task.md)
+		- 学习复盘
+	- [Chap5:策略在其他业务上的应用](CONTENT/Chap5.md)
+		- [Task:网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
+		- 学习复盘
+	- [Final:结业项目](CONTENT/Chap6.md)
+		- [Task:优化天气 query 识别策略](CONTENT/Chap6Task.md)
+		- 学习复盘
 
 

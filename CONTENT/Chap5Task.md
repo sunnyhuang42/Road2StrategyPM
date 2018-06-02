@@ -97,9 +97,9 @@
 
 #### 产品特性
 
-上述竞品产品特性对比见 [竞品对比 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1751243137)：
+上述竞品产品特性对比见 [竞品功能对比 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1751243137)：
 
-<iframe width='750' height='500' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1751243137&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='750' height='650' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1751243137&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 从上表中发现，常规选书、读书流程中的功能，同类平台也多少都有。某个阅读应用若想从产品功能上让用户有什么离不开的理由，很难。
 
@@ -128,15 +128,17 @@
 
 ##### 机会（opportunity）
 
-从选书->把书弄到手->读书的常规流程来看，对一个有阅读需求的人，他可能碰到的烦恼有哪些：
+从「选书->把书弄到手->读书->输出」的常规流程来看，对一个有阅读需求的人，他可能碰到的烦恼有哪些：
 
 - **选书环节**：虽然现在网络已让选书不再是难事——各家推荐书单随手可得，还有用户评分评价辅助决策；算法也常在猜你喜欢甚至比你更了解你。但**每个读书人都有自己的偏好，很多时候真的翻翻才知道是否合适——像在书店那样多翻翻，尤其翻翻目录前言后记或自己感兴趣的章节，确定是自己需要的再入手。虽然有些图书提供章节试读，但一般只提供前几章；网购实体书后发现不合适退货也麻烦。**
 - **把书弄到手**：从被推荐（无论是来自朋友、书单还是参考文献）想读某本书，到找到、买到或借到书，这个过程就挺费劲的，还把最初那份特别想一睹为快的热情磨掉不少。
 - **读书环节**：
 	- **目的性不强的阅读**，多为**休闲放松**。这种情况多阅读**虚构类书籍**，如小说、诗歌等。读时读后，不免有些情愫想和人分享交流，却不一定能找到有共同语言的人。好些 App 已经能满足了。
 	- **有目的的阅读**，这种情况多为了了解学习某个知识或技能，在意**学习效率**，期待快速影响行动。这类用户多阅读**非虚构类图书**，如社会科学、经济管理类图书。现在虽有很多说书、讲书、播书的图文音频内容，来节省用户时间，但这类内容消费多后，知识焦虑不减反增：没消费前，焦虑没时间读书；消费多后，焦虑自己好像知道了很多信息，但只了解得很肤浅，真要行动时，技能较老样子没多大长进。
+- **输出环节**：读书过程、读书之后，难免有疑问、有感想，想找人交流。大部分数字阅读 App 都有写书评、写笔记功能，蜗牛读书有 问答功能，微信读书能看到其他用户的笔记，基本能满足需求。
 
-先说最后一个烦恼：要破解上述知识焦虑难题，得用户自己行动起来，从信息的被动接受者，变为信息和意义的主动建构者，即主动学习（active learning）。根据学习科学的主动加工原理（active processing principle），意义学习（meaningful learning）需要学习者对信息进行主动的选择、组织和整合——
+
+先说最后一个烦恼：要破解上述知识焦虑难题，得用户自己行动起来，从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)）。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动的选择、组织和整合——
 
 ![infomeaningfullearning.jpg](http://ishanshan.qiniudn.com/share/infomeaningfullearning.jpg?imageMogr2/size-limit/100k!)
 
@@ -149,7 +151,7 @@
 
 综上，如果想高效地主动学习，其实最省力的办法是批量阅读、主题学习——同时读某个主题的一堆书，跳读而非循规蹈矩，按照篇章次序阅读，更不要一次只读一本书。
 
-到底怎样批量阅读？来看几个例子：
+到底如何批量阅读？试看几例：
 
 <details>
 <summary> 例一：如何快速找到认知语言学的核心术语体系？</summary>
@@ -160,11 +162,23 @@
 
 所谓知识，无非是信息。利用找不同，你可以在一瞬间，得出众多信息。
 
+<br> 
+
+
 人类大脑有很强的模式处理能力，它能快速地将两个人不同之处找出来，这份能力太强大了，所以做任何一件事情要拿到好的答案，要思考如何批量。同样，具体到读书上，学习任何一个学科其实都可以掌握一个学习该学科的核心术语体系。
+
+<br> 
+
 
 假设你要学习认知语言学，作为一名之前是从来没有接触过它的新手，那么你第一步是买五到十本认知语言学教材。拿着不同的教材，你看不同教材（目录）反复在讲什么问题，你就很明白该学科的核心知识体系了。比如，你拿出三四本教材来对照一下。你发现来自不同年代不同国家的三四本教材反复地在讲范畴以及隐喻。大家就明白，这是认知语言学最核心的内容。
 
+<br> 
+
+
 因此，我信奉主题学习。人类大脑善于找不同，不善于深度学习。将100本写作图书放在一起，一个智力正常的人，找不同很容易，很容易理解写作的一些细微之处。我也有意成为藏书者。我相信印刷书会越来越昂贵，阅读纸质书会越来越精英化。未来除了隐藏在微信群、行业网络这类隐知识之外，绝大多数人的资讯来源会越来越依赖微信、微博这类资讯。如果你像我一样藏书数万，就占据了一个独特信息源。所谓信息不对称与智力不对称。
+
+
+<br> 
 
 
 
@@ -179,21 +193,45 @@
 
 研究表明，大约10%左右节点，即获取80%左右高质量信息。那么，你该选择什么样的节点来获取信息呢？对于杰作水准之下读物来说，非常容易，其图书篇章结构，如浊水池塘，浅薄不堪。比如，民国秘史或高效能人士的七个习惯。或者沿着时间线索铺陈而来；或者围绕某个论点，陈列观点。
 
+<br> 
+
+
 然而，杰作与神作不是这样的信息结构。杰作与神作或者微言大义，观点新鲜，读来令人豁然开朗，直指大道；或者旁征博引，气势如虹，文如汪洋。
+
+<br> 
+
 
 纳博科夫就是这样的作家，《俄罗斯文学讲稿》就是这样的杰作。那么，该如何跳读这类著作？找到10%的关键信息结构呢？在写作课上，我以《俄罗斯文学讲稿》举例，给各位同学演示了「抽样读书法」。你可以如此层层递推，循环往复。
 
+<br> 
+
+
 首先得理解作者自身的审美偏好。像纳博科夫这样的伟大作家很少使用诸如六大技能、七大美德这样的篇章结构。此时你必须回到文本本身。比如当你了解到纳博科夫写过的唯一人物传记是果戈里，经常提到的作家是托尔斯泰。那么，这样就可以选取《俄罗斯文学讲稿》中果戈里、托尓斯泰两章来抽样。
+
+<br> 
+
 
 接下来，验证第一轮抽样结果。你仔细阅读纳博科夫《俄罗斯文学讲稿》的前言，以及相应推荐语，发现的确多处提及果戈里与托尔斯泰，验证了你将这两章作为信息抽样的关键节点的正确。比如纳博科夫高度推崇果戈里，甚至认为果戈里有可能是一种不存在的作家。
 
+<br> 
+
+
 因为杰作与神作的阅读难度超出一般读物太多。即使你进入了果戈里这一章节，你仍然难以把握纳博科夫的核心观点与精妙之处。我们继续采取信息抽样方法进行阅读，倒过来阅读。看果戈里这一章的结尾，你会发现，纳博科夫认为果戈里最大的特色是他的作品更多是一种语言现象而非思想观念。
+
+<br> 
+
 
 这么一来，我们把握住了纳博科夫对果戈里的基本认识，然后回头重新读起，势如破竹，难处迎刃而解。
 
+<br>
+
 接下来，我们可以将果戈里这一章划分为不同信息组块，继续将各自信息组块打碎重组，每次只抽样阅读其中一个信息组块。比如，你会发现，此章有十七个组块，其中，纳博科夫花费了极大力气讲果戈里的作品《外套》。这样，你可以重点阅读《外套》这个组块。我们发现它又分成不同段落，在段落部分，继续抽样。
 
+<br> 
+
 最后，如此循环反复，在写作课的短短十分钟的跳读示范中，我与同学们一起得出了纳博科夫的至少十点文学认识。比如他是一位高度重视感觉的作家。
+
+<br> 
 
 ——摘自 [冷读热读：读书九问 - 阳志平的网志](https://www.yangzhiping.com/psy/reading-2015.html) Q6：怎样更高效地跳读？
 
@@ -207,9 +245,12 @@
 
 你需要从最源头的入手，向历史学家学习，整理各个领域的知识谱系图。 人类往往高估一个时代牛人的数量，站在 100-1000-10000年尺度，能够被历史记住的牛人超出你想象的少。你会发现，当代推崇阳明的是杜维明；近代是梁启超；再往上是刘宗周。问题来了，刘宗周早年不喜阳明之学，为什么？阳明又不喜朱子，为什么？朱子又是从哪里来的？层层递推，你会发现，读懂儒家阳明心学脉络，孔孟——朱熹——王阳明——刘宗周——梁启超——杜维明，这条线一路下来。
 
-——[读书十二问 - 阳志平的网志](https://www.yangzhiping.com/psy/live002.yangtalk.html)Q2：如何提高生成知识体系的效率？
+<br> 
+
+—— [读书十二问 - 阳志平的网志](https://www.yangzhiping.com/psy/live002.yangtalk.html) Q2：如何提高生成知识体系的效率？
 
 </details>
+
 
 芒格、毛姆、钱钟书等写的读书笔记，也都强调了认知科学近些年证实的一点：不要尝试在一天内读一本难书，三五本在一天内一起读效果更好。应将一本难书分散到不同天去，所谓分散学习（[Distributed practice](https://en.wikipedia.org/wiki/Distributed_practice)) 。
 
@@ -269,9 +310,9 @@
 
 - 可以把某本图书生成推荐图，以便用户用于公众号等图文中。图中带蜗牛读书中该书的二维码，用户扫描二维码即可进入改图书的蜗牛读书页面。推荐图 demo ：
 
-
-
 	[![coursespm-ereading-marketdemo8.jpeg](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo8.jpeg)](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo8.jpeg)
+
+注：突出豆瓣评分，是因为目前蜗牛读书没有图书评分，而豆瓣属目前国人接受度最广的图书评分，且一时半会儿难以改变这个心智定位。如此，把豆瓣评分放在图中，更易让蜗牛读书成为推荐书单必备工具。
 
 #### 激励规则
 
@@ -315,7 +356,9 @@
 	- 是阅读行为的高发场景：网络不稳定，周围不一定有人聊天，也干不了啥，要想不浪费时间还是看会儿书吧哈哈：
 		
 		![coursespm-ereading-market10.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market10.jpg)
+		
 		（来自 [网易云阅读：2014年移动阅读用户调查 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/324238.html)）	
+	
 	而且周围人在阅读，自己玩别的，感觉怪有压力的；而如果自己也阅读，感觉就好很多——易有惺惺相惜的珍惜，还可能有一丝优越感。
 
 - 要找到处于该场景的用户也相对简单，且可以精准触达不同类型的用户提升转化效率。
@@ -333,24 +376,24 @@
 
 
 
-基础合作：入驻对方积分商城，比如 X 几分可换 1 天、3 天、7 天免费阅读时长。
+- 基础合作：入驻对方积分商城，比如 X 几分可换 1 天、3 天、7 天免费阅读时长。
 
-**marketing campaign（重点，争取达成）**：和对方联合做市场活动，集中 3-4 周的时间，给满足对应条件的付费用户发送蜗牛读书福利。
+- **marketing campaign（重点，争取达成）**：和对方联合做市场活动，集中 3-4 周的时间，给满足对应条件的付费用户发送蜗牛读书福利。
 
-- **用例**：用户在合作平台消费后就收到和用户行为对应的蜗牛读书推荐信息及入口，点击即可进入蜗牛读书领取福利。即 `收到匹配自己行为特征的活动信息>进入活动入口>选择（感兴趣的主题和）图书>阅读` 。比如某用户在高铁管家上买了一张北京到上海的高铁票，商务座，购票成功后，即收到高铁管家弹出的、针对注重效率人群的读书福利消息，点击即可进入对应页面领取。
-- **不同用户活动消息的投放规则**见[与出行平台合作广告投放策略-「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
-  
-  <iframe width='750' height='350' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1011970681&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-  
-- **福利领取规则**：出行时间就可免费读全场蜗牛图书。蜗牛读书免费用户和付费用户领取时长的计算规则见 [和出行平台合作活动规则 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
-
-	<iframe width='750' height='270' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1442002300&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	- **用例**：用户在合作平台消费后就收到和用户行为对应的蜗牛读书推荐信息及入口，点击即可进入蜗牛读书领取福利。即 `收到匹配自己行为特征的活动信息>进入活动入口>选择（感兴趣的主题和）图书>阅读` 。比如某用户在高铁管家上买了一张北京到上海的高铁票，商务座，购票成功后，即收到高铁管家弹出的、针对注重效率人群的读书福利消息，点击即可进入对应页面领取。
+	- **不同用户活动消息的投放规则**见[与出行平台合作广告投放策略-「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
+	  
+	  <iframe width='750' height='350' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1011970681&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	  
+	- **福利领取规则**：出行时间就可免费读全场蜗牛图书。蜗牛读书免费用户和付费用户领取时长的计算规则见 [和出行平台合作活动规则 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1442002300)：
 	
-- **活动时机**：若要上线该 campaign ，需蜗牛阅读满足以下条件
-	- 可从 web 版选择感兴趣的主题、选书（降低用户进入门槛）
-	- 「分类」页面已完成改版，弱化「在读榜」和「新书榜」，突出个性化图书推荐。具体原因及如何改版，详见下文。
-	- 已有 15-25 个用户反响不错（用户分享率超过 7%）的批量阅读工具包，以便大批较有话语权的用户进来时，发现的确名副其实甚至超出预期
-- **投放节奏**：先在北京上海杭州深圳等 3-5 个互联网氛围更浓郁的城市测试跑通后，再拓展到成都、重庆、南京、武汉等数字阅读用户更广大的城市。
+		<iframe width='750' height='270' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1442002300&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+		
+	- **活动时机**：若要上线该 campaign ，需蜗牛阅读满足以下条件
+		- 可从 web 版选择感兴趣的主题、选书（降低用户进入门槛）
+		- 「分类」页面已完成改版，弱化「在读榜」和「新书榜」，突出个性化图书推荐。具体原因及如何改版，详见下文。
+		- 已有 15-25 个用户反响不错（用户分享率超过 7%）的批量阅读工具包，以便大批较有话语权的用户进来时，发现的确名副其实甚至超出预期
+	- **投放节奏**：先在北京上海杭州深圳等 3-5 个互联网氛围更浓郁的城市测试跑通后，再拓展到成都、重庆、南京、武汉等数字阅读用户更广大的城市。
 
 至于其它公司为什么要和蜗牛读书合作而非和微信读书等平台合作，这就要靠市场商务团队挖掘对方看重什么，寻找合作契机了。
 
@@ -404,26 +447,33 @@
 
 综上，若采取该方案，未来半年各阶段团队不同角色的工作重点见 [未来半年各角色工作重心安排 -「网易蜗牛读书」增长策略追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1m5mBJjYQcG9Q2g03WAKflLkd0vAQvkoOuNsn-EIIHkU/edit#gid=1335474941)：
 
-<iframe width='750' height='590' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1335474941&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width='750' height='620' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTawCPCAWWuYPwGRcF8H72JCmo0lDXe7BSNwz_POcLEmMfJI4MkTsFTaTdO-TyVo9WHIqyv2QUB5BYD/pubhtml?gid=1335474941&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+更往后的规划，需要了解这半年的市场反馈才能决策。
+
+以上。
 
 # 自评
 
-这么多作业里写得最快的一回……在没看视频的情况下，从开始思考到查资料、完成[初稿](https://github.com/ishanshan/Road2StrategyPM/blob/37b0106e8471458cda9ddbeb4470865fe63619df/CONTENT/Chap5Task.md)不到 4 小时。有切入点一切都好办，嘿嘿。不过后来补看视频、优化的时间，就花得比较多了……花了初稿的两倍 - -#
+这么多作业里写得最快的一回……在没看视频的情况下，从开始思考到查资料、完成[初稿](https://github.com/ishanshan/Road2StrategyPM/blob/37b0106e8471458cda9ddbeb4470865fe63619df/CONTENT/Chap5Task.md)不到 4 小时——有切入点一切都好办：P
 
-优化完成，再次感叹所有的路都不会白走——如果没有本科念园林设计留下的两把刷子，我很难快速作图改图表达想法：P 
+不过后来补看视频、优化的时间，就花得比较多了……[二稿方案](https://github.com/ishanshan/Road2StrategyPM/blob/858353e0bec690ad08580f054391852db70880d2/CONTENT/Chap5Task.md)花了初稿的两倍，三稿又花了前两稿总时长的两倍 - -# 其实写二稿时，三稿涉及的背景信息自己都清楚，但偷懒没写出来。为了让助教能理解我设计逻辑，三稿借着把思路都写出来，连产品战略都有眉目了哈哈。
+
+这一梳理，发觉优秀的策略产品经理，不仅得先是优秀的产品经理，甚至还要有优秀的 CEO 潜质啊……
+
+ 
 
 本次作业优点：
 
-- 依然是自上而下思考问题，比如先了解数字阅读市场环境如何，用户行为有什么特征？蜗牛阅读的定位是什么，读书应用那么多时代，网易为什么要做这个？想拿下哪群用户，为什么现有用户里学生占了大半，是有意为之还是意外？蜗牛阅读有什么独特之处？
-- 策略思考不局限于线上，而是从抢夺用户时间的角度切入，想到从出行场景帮助用户把低价值时间转化为高价值时间。
-- 想到了各环节待测试待验证的组合。
-- demo 设计得不错，个人挺喜欢这个新方案的信息架构哈哈哈
+- 依然是自上而下思考问题，比如先了解数字阅读市场环境如何，用户行为有什么特征？蜗牛阅读的定位是什么，读书应用那么多时代，网易为什么要做这个？想拿下哪群用户，为什么现有用户里学生占了大半，是有意为之还是意外？蜗牛阅读能提供什么独特价值？
+- 从战略>策略>方案，层层递进，有理有据。
+- 结合自己之前的积累（比如对认知科学的理解、对读书人群的观察），找到了独特的增长切入点。
 
-改进：可以把待测试的选项组合列得更详细。不过这需要结合团队能调度的资源考虑，现在这个未知就先这样吧。
+改进：容我再想想……
 
 # CHANGELOG 
 
+- 180602 闪闪更新自评
 - 180601 闪闪增补所需图片、表格
 - 180531 闪闪大幅增补项目背景中对整个产品的分析
 - 180527 闪闪增补表格、demo，优化表述

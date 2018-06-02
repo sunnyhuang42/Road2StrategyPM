@@ -16,13 +16,13 @@
 		- [Task:优化豆瓣图书推荐效果](CONTENT/Chap2Task.md)
 		- [学习复盘](CONTENT/Chap2Review.md)
 	- [Chap3:策略产品工作的通用方法论](CONTENT/Chap3.md)
-		- [Task:优化小红书购买流程](CONTENT/Chap3Task.md)
+		- [Task:优化小红书购买体验](CONTENT/Chap3Task.md)
 		- [学习复盘](CONTENT/Chap3Review.md)
 	- [Chap4:策略在核心业务上的应用](CONTENT/Chap4.md)
 		- [Task:分析「微博搜索」功能](CONTENT/Chap4Task.md)
 		- 学习复盘
 	- [Chap5:策略在其他业务上的应用](CONTENT/Chap5.md)
-		- [Task:网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
+		- [Task:设计网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
 		- 学习复盘
 	- [Final:结业项目](CONTENT/Chap6.md)
 		- [Task:优化天气 query 识别策略](CONTENT/Chap6Task.md)

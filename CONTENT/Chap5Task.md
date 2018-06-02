@@ -140,7 +140,7 @@
 
 先说最后一个烦恼：要破解上述知识焦虑难题，得用户自己行动起来，从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)）。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动的选择、组织和整合——
 
-![infomeaningfullearning.jpg](http://ishanshan.qiniudn.com/share/infomeaningfullearning.jpg?imageMogr2/size-limit/100k!)
+![infomeaningfullearning.jpg](http://ishanshan.qiniudn.com/share/infomeaningfullearning.jpg?imageView2/2/w/500)
 
 而人类大脑有两个特点：
 
@@ -251,6 +251,7 @@
 
 </details>
 
+<br> 
 
 芒格、毛姆、钱钟书等写的读书笔记，也都强调了认知科学近些年证实的一点：不要尝试在一天内读一本难书，三五本在一天内一起读效果更好。应将一本难书分散到不同天去，所谓分散学习（[Distributed practice](https://en.wikipedia.org/wiki/Distributed_practice)) 。
 
@@ -357,7 +358,7 @@
 		
 		![coursespm-ereading-market10.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market10.jpg)
 		
-		（来自 [网易云阅读：2014年移动阅读用户调查 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/324238.html)）	
+		（图片摘自 [网易云阅读：2014年移动阅读用户调查 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/324238.html)）	
 	
 	而且周围人在阅读，自己玩别的，感觉怪有压力的；而如果自己也阅读，感觉就好很多——易有惺惺相惜的珍惜，还可能有一丝优越感。
 
@@ -412,7 +413,7 @@
 	* 现在用户进来后流失风险较大：「分类」页面及其子页面千人一面，而且显眼的「在读榜」「新书榜」，很可能是不感兴趣的图书。
 	* 建议改为 新用户进入后先选感兴趣的主题，根据兴趣个性化推荐，并提供检索；老用户需先选择阅读兴趣后才能继续阅读。
 
-		上述两点改版 demo 见右下图（点击图片可查看大图）：
+		上述两点改版 demo 见右下图：
 	
 		[![woniureadingdemocompare.jpg](http://ishanshan.qiniudn.com/share/woniureadingdemocompare.jpg?imageMogr2/size-limit/100k!)](http://ishanshan.qiniudn.com/share/woniureadingdemocompare.jpg)
 

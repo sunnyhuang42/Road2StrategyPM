@@ -19,7 +19,7 @@
 		- [Task:优化小红书购买体验](CONTENT/Chap3Task.md)
 		- [学习过程复盘](CONTENT/Chap3Review.md)
 	- [Chap4:策略在核心业务上的应用](CONTENT/Chap4.md)
-		- [Task:优化「微博搜索」体验](CONTENT/Chap4Task.md)
+		- [Task:优化微博搜索体验](CONTENT/Chap4Task.md)
 		- 学习过程复盘
 	- [Chap5:策略在其他业务上的应用](CONTENT/Chap5.md)
 		- [Task:设计网易蜗牛读书增长方案](CONTENT/Chap5Task.md)

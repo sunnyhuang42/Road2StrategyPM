@@ -2,10 +2,11 @@
 # Chap3 作业
 
 
-本次作业包括以下板块，直达电梯：
+本次作业包括以下板块：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 - [Part1：小红书优化购买流程需求文档](#part1%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%BC%98%E5%8C%96%E8%B4%AD%E4%B9%B0%E6%B5%81%E7%A8%8B%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3)
   - [项目背景](#%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF)
@@ -18,7 +19,7 @@
     - [3. 差异化订单支付时限](#3-%E5%B7%AE%E5%BC%82%E5%8C%96%E8%AE%A2%E5%8D%95%E6%94%AF%E4%BB%98%E6%97%B6%E9%99%90)
     - [4. 统计需求](#4-%E7%BB%9F%E8%AE%A1%E9%9C%80%E6%B1%82)
 - [Part2：课后思考题](#part2%E8%AF%BE%E5%90%8E%E6%80%9D%E8%80%83%E9%A2%98)
-- [Self Review](#self-review)
+- [自评](#%E8%87%AA%E8%AF%84)
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -150,7 +151,7 @@ Part1 作业要求：
 
 	> 如果用户行为判断不出男女，但可以从其自己填的信息（比如性别或身份证）判断为女，那在定义标签时是否应该定为女？
   
-	私以为不应该，直接标定 男+女 的标签即可。不管其真实性别如何，其行为特征表明其对男性和女性用户感兴趣的信息都可能有兴趣。
+	不应该，直接标定 男+女 的标签即可。不管其真实性别如何，其行为特征表明其对男性和女性用户感兴趣的信息都可能有兴趣。
 
 - Q2:
 
@@ -164,7 +165,7 @@ Part1 作业要求：
   
 	因为前者候选数据量太大，加载慢，若在输入拼音的时候就猜，牺牲的体验不如得到的体验，故舍弃。
 
-# Self Review
+# 自评
 
 本次作业前后花了差不多 20h ，有了这回的经验教训，相信下回可以更快。
 

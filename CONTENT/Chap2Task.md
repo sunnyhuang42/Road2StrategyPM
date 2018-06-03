@@ -9,18 +9,19 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [明确需求理想态](#%E6%98%8E%E7%A1%AE%E9%9C%80%E6%B1%82%E7%90%86%E6%83%B3%E6%80%81)
-    - [该推荐模块理想态](#%E8%AF%A5%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9D%97%E7%90%86%E6%83%B3%E6%80%81)
-    - [用户需求分析及推荐策略猜想](#%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E5%8F%8A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E7%8C%9C%E6%83%B3)
-  - [抽样分析](#%E6%8A%BD%E6%A0%B7%E5%88%86%E6%9E%90)
-    - [样本选取](#%E6%A0%B7%E6%9C%AC%E9%80%89%E5%8F%96)
-    - [抽样情况概览](#%E6%8A%BD%E6%A0%B7%E6%83%85%E5%86%B5%E6%A6%82%E8%A7%88)
-      - [从表中可以看出的](#%E4%BB%8E%E8%A1%A8%E4%B8%AD%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%87%BA%E7%9A%84)
-      - [抽样过程中观察到的](#%E6%8A%BD%E6%A0%B7%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%A7%82%E5%AF%9F%E5%88%B0%E7%9A%84)
-    - [问题汇总&需求提炼](#%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB%E9%9C%80%E6%B1%82%E6%8F%90%E7%82%BC)
-  - [行动计划](#%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92)
-  - [Self Review](#self-review)
-  - [CHANGELOG](#changelog)
+
+- [明确需求理想态](#%E6%98%8E%E7%A1%AE%E9%9C%80%E6%B1%82%E7%90%86%E6%83%B3%E6%80%81)
+  - [该推荐模块理想态](#%E8%AF%A5%E6%8E%A8%E8%8D%90%E6%A8%A1%E5%9D%97%E7%90%86%E6%83%B3%E6%80%81)
+  - [用户需求分析及推荐策略猜想](#%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E5%8F%8A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E7%8C%9C%E6%83%B3)
+- [抽样分析](#%E6%8A%BD%E6%A0%B7%E5%88%86%E6%9E%90)
+  - [样本选取](#%E6%A0%B7%E6%9C%AC%E9%80%89%E5%8F%96)
+  - [抽样情况概览](#%E6%8A%BD%E6%A0%B7%E6%83%85%E5%86%B5%E6%A6%82%E8%A7%88)
+    - [从表中可以看出的](#%E4%BB%8E%E8%A1%A8%E4%B8%AD%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%87%BA%E7%9A%84)
+    - [抽样过程中观察到的](#%E6%8A%BD%E6%A0%B7%E8%BF%87%E7%A8%8B%E4%B8%AD%E8%A7%82%E5%AF%9F%E5%88%B0%E7%9A%84)
+  - [问题汇总&需求提炼](#%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB%E9%9C%80%E6%B1%82%E6%8F%90%E7%82%BC)
+- [行动计划](#%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92)
+- [自评](#%E8%87%AA%E8%AF%84)
+- [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -146,7 +147,7 @@ phenomenon 7:
 
 
 
-## Self Review
+## 自评
 
 这回作业花了不少时间，中间还不时翻翻大伙儿怎么想的，加起来差不多 15 小时吧……
 

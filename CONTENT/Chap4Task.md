@@ -5,10 +5,11 @@
 
 > Task：完成一份「微博搜索」竞品分析报告。参考课程中【实例】网页搜索策略思考方法，验证微博中的具体状况，针对这些用户需求以及不足的点，提出优化方案。
 
-直达电梯：
+目录：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 - [「微博搜索」竞品分析报告](#%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A)
   - [分析目的与执行概要](#%E5%88%86%E6%9E%90%E7%9B%AE%E7%9A%84%E4%B8%8E%E6%89%A7%E8%A1%8C%E6%A6%82%E8%A6%81)
@@ -23,7 +24,7 @@
       - [维度二：微博搜索在「影视综艺」主题上值得做的调整](#%E7%BB%B4%E5%BA%A6%E4%BA%8C%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2%E5%9C%A8%E5%BD%B1%E8%A7%86%E7%BB%BC%E8%89%BA%E4%B8%BB%E9%A2%98%E4%B8%8A%E5%80%BC%E5%BE%97%E5%81%9A%E7%9A%84%E8%B0%83%E6%95%B4)
       - [维度三：微博搜索在「高效了解某位用户的情况」方向上值得做的调整](#%E7%BB%B4%E5%BA%A6%E4%B8%89%E5%BE%AE%E5%8D%9A%E6%90%9C%E7%B4%A2%E5%9C%A8%E9%AB%98%E6%95%88%E4%BA%86%E8%A7%A3%E6%9F%90%E4%BD%8D%E7%94%A8%E6%88%B7%E7%9A%84%E6%83%85%E5%86%B5%E6%96%B9%E5%90%91%E4%B8%8A%E5%80%BC%E5%BE%97%E5%81%9A%E7%9A%84%E8%B0%83%E6%95%B4)
     - [梳理需求优先级](#%E6%A2%B3%E7%90%86%E9%9C%80%E6%B1%82%E4%BC%98%E5%85%88%E7%BA%A7)
-- [Self Review](#self-review)
+- [自评](#%E8%87%AA%E8%AF%84)
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -185,7 +186,7 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 
 <iframe width='750' height='290' frameborder='1' scrolling='no' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR_kco1oSm4nZLayKebJrDQ4wJ6gdPRly8tzg_OiNT1Km6y9ok2Vq4l39PB2ow8njYf0UY7Ewi2a-qr/pubhtml?gid=470309809&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-# Self Review
+# 自评
 
 
 本次作业，花了 40 多小时吧……大半花在前期找查资料、梳理微博搜索应实现什么效用，以及测试对比各产品。尤其这几个产品多是杀时间利器，测着测着一不小心就开始看起视频来（捂脸）……不管怎样，总算搞定。

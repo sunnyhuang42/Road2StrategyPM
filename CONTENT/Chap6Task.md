@@ -4,7 +4,7 @@
 
 > Task：经过了一段时间的训练，你终于成为了百度搜索的策略产品经理。你决定从一个优化词着手开始动手，并在后台随机抽取了200个 query （标记为1的是被机器标记为「天气」的）。请选择一部分的需求，完成一个开发量 2 周，适中版本的 PRD 设计。
 
-直达电梯：
+目录：
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -24,7 +24,7 @@
       - [2. 调整展示策略](#2-%E8%B0%83%E6%95%B4%E5%B1%95%E7%A4%BA%E7%AD%96%E7%95%A5)
       - [3. 修改前端样式](#3-%E4%BF%AE%E6%94%B9%E5%89%8D%E7%AB%AF%E6%A0%B7%E5%BC%8F)
       - [4. 统计需求](#4-%E7%BB%9F%E8%AE%A1%E9%9C%80%E6%B1%82)
-- [Self Review](#self-review)
+- [自评](#%E8%87%AA%E8%AF%84)
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -132,7 +132,7 @@
 先小流量上线，统计被识别为 `天气需求 1`（含1-0与1-1）  与 `天气需求 2`（含2-0与2-1） 的 query 。效果回归，召回率和准确率达标后，再全流量上线。
 
 
-# Self Review
+# 自评
 
 这回作业用了 10h 左右，主要花在作图、整表格、调样式什么的。想清楚词汇分类匹配规则后，感觉其它都是体力活……
 

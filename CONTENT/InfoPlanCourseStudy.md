@@ -1,4 +1,4 @@
-# 策略产品经理训练营学习计划
+# 策略产品经理训练营学习计划&行动情况
 
 训练营课程每周五上新，下周四晚 8 点半助教群内点评，下周四晚 12 点截止提交当周作业。摸索发现这样的学习方式更适合自己：
 
@@ -9,7 +9,7 @@
 3. 搞定作业初稿后，便翻看同学作业及群里讨论，取长补短，优化作业。
 4. 复盘本周学习过程，调整下周行动计划。
 
-PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件比如 [Video Speed Controller - Chrome 网上应用店](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)。
+PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件比如 [Video Speed Controller - Chrome 网上应用店](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)，可以把视频调为 2.5 倍速播放。
 
 
 ## 每周学习节奏
@@ -22,8 +22,26 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 
 迭代记录：https://github.com/ishanshan/Road2StrategyPM/commits/master/CONTENT/InfoPlanCourseStudy.md
 
+
+## 实际执行情况
+
+
+- 每章学习流程基本按上述方式进行，从没听过点评——点评是群里语音+图文消息，太碎片且无法倍速播放——日常已习惯倍速播放，一般音频 1.5 倍，课程视频因为专注所以是按 2.5~3 倍速看完的，总之无法倍速播放的东西基本不听。
+- 开课第二个月，因为没在工作，且在选校、准备 GRE TOEFL ，就没再按上述节奏每周学习，而是停了几周……结业最后两周才赶着完成剩下 4 个章节。
+- 没有每天看一篇增长策略图文，都是要解决问题时，再检索批量看一堆资料。不过平常不时浏览[湾区日报](https://wanqu.co/)和[哈佛商业评论](https://hbr.org/)，里面偶尔涉及商业模式和增长策略。
+
+
+也许是自己过往的积累的确适合做产品，chap2 开始作业被评为优秀，之后就一路挂在优秀榜上，并在这个 145 人的训练营里成为五位优秀学员之一，这可是产品经理和工程师扎堆的的训练营啊(＾－＾)V 发现自己就这么点亮了新的技能树真是很开心~
+
+![coursespm-certificate.png](http://ishanshan.qiniudn.com/share/coursespm-certificate.png)
+ 
+
+
+如果再来一轮，这样的节奏也挺好：）
+
 ## CHANGELOG
 
+- 180603 闪闪增补实际执行情况
 - 180517 闪闪增补迭代记录链接
 - 180405 闪闪创建
 

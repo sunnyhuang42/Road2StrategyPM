@@ -13,6 +13,7 @@
   - [设定项目目标](#%E8%AE%BE%E5%AE%9A%E9%A1%B9%E7%9B%AE%E7%9B%AE%E6%A0%87)
   - [做决策、评估优先级](#%E5%81%9A%E5%86%B3%E7%AD%96%E8%AF%84%E4%BC%B0%E4%BC%98%E5%85%88%E7%BA%A7)
 - [工作习惯](#%E5%B7%A5%E4%BD%9C%E4%B9%A0%E6%83%AF)
+  - [遇到新问题不慌，借助《How to Solve it》框架理思路](#%E9%81%87%E5%88%B0%E6%96%B0%E9%97%AE%E9%A2%98%E4%B8%8D%E6%85%8C%E5%80%9F%E5%8A%A9how-to-solve-it%E6%A1%86%E6%9E%B6%E7%90%86%E6%80%9D%E8%B7%AF)
   - [关注用户故事](#%E5%85%B3%E6%B3%A8%E7%94%A8%E6%88%B7%E6%95%85%E4%BA%8B)
   - [关注别人、别的产品做对了什么、如何借鉴，而非挑错](#%E5%85%B3%E6%B3%A8%E5%88%AB%E4%BA%BA%E5%88%AB%E7%9A%84%E4%BA%A7%E5%93%81%E5%81%9A%E5%AF%B9%E4%BA%86%E4%BB%80%E4%B9%88%E5%A6%82%E4%BD%95%E5%80%9F%E9%89%B4%E8%80%8C%E9%9D%9E%E6%8C%91%E9%94%99)
   - [区分原始数据和演绎数据](#%E5%8C%BA%E5%88%86%E5%8E%9F%E5%A7%8B%E6%95%B0%E6%8D%AE%E5%92%8C%E6%BC%94%E7%BB%8E%E6%95%B0%E6%8D%AE)
@@ -53,6 +54,14 @@
 以及，这不仅需要决策能力，还需要敢于承担的勇气和善后智慧。
 
 ## 工作习惯
+
+### 遇到新问题不慌，借助《How to Solve it》框架理思路
+
+工作中常会遇到新问题，这很正常，不必慌乱。
+
+如何应对，[How to Solve It - Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It) 早已道尽奥秘：明确目标，弄清已知、未知数据以及他们的关系，明确边界条件，制定计划，执行计划，效果回归：
+
+![chart-how-to-solve-it_polya.jpg](http://ishanshan.qiniudn.com/share/chart-how-to-solve-it_polya.jpg)
 
 ### 关注用户故事
 

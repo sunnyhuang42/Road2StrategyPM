@@ -39,7 +39,7 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 
 ![coursespm-certificate.png](http://ishanshan.qiniudn.com/share/coursespm-certificate.png)
  
-
+（图中二维码地址：[策略产品经理的实战修炼（第二期）闪闪ishanshan](http://class.sanjieke.cn/h/4243443/115656)）
 
 如果再来一轮，这样的节奏也挺好：）
 

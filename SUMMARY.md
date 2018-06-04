@@ -23,7 +23,7 @@
 		- [学习过程复盘](CONTENT/Chap4Review.md)
 	- [Chap5:策略在其他业务上的应用](CONTENT/Chap5.md)
 		- [Task:设计网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
-		- [学习过程复盘](CONTENT/Chap4Review.md)
+		- [学习过程复盘](CONTENT/Chap5Review.md)
 	- [Final:毕业设计](CONTENT/Chap6.md)
 		- [Task:优化天气 query 识别策略](CONTENT/Chap6Task.md)
 		- [学习过程复盘](CONTENT/Chap6Review.md)

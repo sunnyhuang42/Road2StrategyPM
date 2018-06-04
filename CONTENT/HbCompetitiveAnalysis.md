@@ -17,7 +17,7 @@
 Tips: 
 
 - 如果连初步解决方案都难以梳理，可以先用 15-20 分钟快速搜寻信息，辅助决策形成方案。
-- 比如了解同行支付时限时，我先快速扫了一眼几个优秀作业里列出的支付时限，大致了解了同行情况。有了初步解决方案后，再去做竞调，就更有侧重地观察了[这些维度](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=224436884)，以验证自己的设想是否合理。
+- 比如了解同行支付时限时，先快速扫了一眼几个优秀作业里列出的支付时限调研结果，大致了解了同行情况。有了初步解决方案后，再去做竞调，就更有侧重地观察了[这些维度](https://docs.google.com/spreadsheets/d/1sz5MgZurOmPb4928bjzvG2M4DrXmkem9ngeN-36kXmY/edit#gid=224436884)，以验证自己的设想是否合理。
 
 
 ## how

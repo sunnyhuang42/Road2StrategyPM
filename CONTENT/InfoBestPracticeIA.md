@@ -101,7 +101,7 @@
 
 目前看到三节课的界面做得不错：课程主页面左边能直接查看（滑出效果）整个课程目录、右边能查看课程作业目录，不必跳转来跳转去才能看到，给用户全局感和掌控感，不易迷失。
 
-（动图正在申请授权）
+![iasample-3jieke1.gif](http://ishanshan.qiniudn.com/share/iasample-3jieke1.gif)
 
 ### 反面案例
 
@@ -111,7 +111,6 @@
 ![iasample-omc.gif](http://ishanshan.qiniudn.com/share/iasample-omc.gif)
 
 ## CHANGELOG  
-
 
 - 180403 闪闪创建
 

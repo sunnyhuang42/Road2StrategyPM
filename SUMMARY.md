@@ -4,6 +4,7 @@
 - [Notes](CONTENT/ChapNotes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
 	- [Best Practice in Information Architecture](CONTENT/InfoBestPracticeIA.md) 
+	- [Hope for Next Vocation](CONTENT/InfoVocationRequirement.md)
 	- [Tips For Competitive Analysis](CONTENT/HbCompetitiveAnalysis.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
 	- [Murmur of Priority in Developing a Product](CONTENT/MurStartupDevPriority.md)

@@ -28,7 +28,7 @@
 
 ### 正面案例
 
-何为卡片层级？为什么卡片层级对输出助益颇大？优雅趁手的卡片工具需满足什么要求？[卡片助力输入输出，工具我选 WorkFlowy | ishanshan's blog](http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html) 已说过，这里不赘述。
+何为卡片层级？为什么卡片层级对输出助益颇大？优雅趁手的卡片工具需满足什么要求？[卡片助力输入输出，工具我选 WorkFlowy | ishanshan's blog](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 已说过，这里不赘述。
 
 [WorkFlowy](https://workflowy.com/demo/embed/) 是目前我见过的卡片级别工具里最优雅趁手。究其核心奥秘，私以为是其只有唯一「实体」 `bullet` ，能自如缩进、拖动、折叠展开的 `bullet` ，简洁却可供性无穷。用户可以自由定义各 `bullet` 在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态。
 

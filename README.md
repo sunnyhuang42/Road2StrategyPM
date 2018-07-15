@@ -8,7 +8,7 @@ Author: [@ishanshan](https://github.com/ishanshan)
 
 GitBook: https://ishanshan.gitbooks.io/road2strategypm
 
-Blog: http://ishanshan.top/
+Blog: https://ishanshan.im/
 
 Email: ishanshan.huang@gmail.com
 

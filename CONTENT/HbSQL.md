@@ -1,5 +1,24 @@
 # SQL 常用语句
 
+## Some of The Most Important SQL Commands
+
+```SQL
+SELECT - extracts data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index
+        
+``` 
+
+
+
 ## 基础命令 
 ```SQL
 mysql-ctl start
@@ -18,22 +37,21 @@ ctrl-c
         
 ``` 
 
-## 删除某个表
+## CREATE
+
+## READ
+
+### 筛选某列特定数据
 
 ```SQL
-DROP TABLE customers;
-        
-``` 
-
-## 筛选某列特定数据
-
-```SQL
-
 SELECT * FROM Customers
 WHERE City = "London" OR Country = "UK";
 
-WHERE Age >= 18;
-        
+SELECT * FROM Customers
+WHERE Country='Germany' AND (City='Berlin' OR City='München');
+ 
+WHERE Age >= 18;    
+WHERE Address IS NOT NULL;   
 ```
 
 
@@ -42,7 +60,8 @@ WHERE Age >= 18;
 SELECT * 
 FROM products
 ORDER BY Price DESC;
-        
+  
+SELECT * FROM `members` ORDER BY `gender`,`date_of_birth` DESC;      
 ``` 
 
 
@@ -92,4 +111,36 @@ FROM   reviewers
 GROUP  BY reviewers.id; 
         
 ``` 
+
+
+
+## UPDATE
+
+### 插入数据
+
+```SQL
+INSERT INTO Customers (CustomerName, City, Country)
+VALUES ('Cardinal', 'Stavanger', 'Norway');        
+``` 
+
+```SQL
+UPDATE Customers
+SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
+WHERE CustomerID = 1;       
+``` 
+
+
+## DELETE
+
+
+
+
+### 删除某个表
+
+```SQL
+DROP TABLE customers;
+        
+``` 
+
+
 

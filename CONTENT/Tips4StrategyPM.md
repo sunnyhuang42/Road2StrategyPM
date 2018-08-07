@@ -132,7 +132,7 @@ if 未来设计或迭代产品， then 多请用户举几个有这类需求/困�
 
 ### 高效做竞品分析
 
-详见 https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/HbCompetitiveAnalysis.html 。
+详见 https://road2strategypm.ishanshan.im/CONTENT/HbCompetitiveAnalysis.html 。
 
 ### 别动不动给别人丢思维导图的图片
 

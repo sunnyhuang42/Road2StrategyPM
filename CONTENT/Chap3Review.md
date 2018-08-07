@@ -6,9 +6,9 @@
 
 主要心得如下：
 
-1. 如何高效做竞品调研，详见 https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/HbCompetitiveAnalysis.html
+1. 如何高效做竞品调研，详见 https://road2strategypm.ishanshan.im/CONTENT/HbCompetitiveAnalysis.html
 
-2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Tips4StrategyPM.html
+2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 https://road2strategypm.ishanshan.im/CONTENT/Tips4StrategyPM.html
 
 3. 亚马逊的客户咨询细节很赞——可以选择邮件发送[聊天记录](https://github.com/ishanshan/Road2StrategyPM/blob/master/CONTENT/Chap3TaskResearchLog.md)，以备不时之需，且客服相较其它公司更专业。
 

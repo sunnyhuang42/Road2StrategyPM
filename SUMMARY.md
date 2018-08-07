@@ -3,7 +3,7 @@
 - [About Me](CONTENT/InfoSelfIntro.md)
 - [Notes](CONTENT/ChapNotes.md)
 	- [Tips For Strategy PM](CONTENT/Tips4StrategyPM.md)
-	- [Best Practice in Information Architecture](CONTENT/InfoBestPracticeIA.md) 
+	- [Best Practice in Information Architecture](CONTENT/InfoBestPracticeIA.md)
 	- [Hope for Next Vocation](CONTENT/InfoVocationRequirement.md)
 	- [Tips For Competitive Analysis](CONTENT/HbCompetitiveAnalysis.md)
 	- [Learn From Sanjieke](CONTENT/InfoLearnFromsanjieke.md)
@@ -23,10 +23,8 @@
 		- [Task:优化微博搜索体验](CONTENT/Chap4Task.md)
 		- [学习过程复盘](CONTENT/Chap4Review.md)
 	- [Chap5:策略在其他业务上的应用](CONTENT/Chap5.md)
-		- [Task:设计网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
+		- [✪Task:设计网易蜗牛读书增长方案](CONTENT/Chap5Task.md)
 		- [学习过程复盘](CONTENT/Chap5Review.md)
 	- [Final:毕业设计](CONTENT/Chap6.md)
 		- [Task:优化天气 query 识别策略](CONTENT/Chap6Task.md)
 		- [学习过程复盘](CONTENT/Chap6Review.md)
-
-

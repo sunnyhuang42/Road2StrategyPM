@@ -1,6 +1,6 @@
 # 关于我
 
-闪闪，工作将满三年的运营人，先后在一家成人认知技能教育公司和儿童脑科学教育公司负责教研、运营和团队建设。公司处于产品基本成型阶段，开始面向大众市场，需要拉新促活留存，也由此接触策略产品经理技能。现在处于空档期，一边准备 GRE TOEFL、学习产品技能，一边考虑接下来的发展方向，比如[去哪类公司、做什么等](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoVocationRequirement.html)。
+闪闪，工作将满三年的运营人，先后在一家成人认知技能教育公司和儿童脑科学教育公司负责教研、运营和团队建设。公司处于产品基本成型阶段，开始面向大众市场，需要拉新促活留存，也由此接触策略产品经理技能。现在处于空档期，一边准备 GRE TOEFL、学习产品技能，一边考虑接下来的发展方向，比如[去哪类公司、做什么等](https://road2strategypm.ishanshan.im/CONTENT/InfoVocationRequirement.html)。
 
 近一年常在思索的问题有：
 
@@ -19,7 +19,7 @@
 
 ## 学习目标
 
-一般不设目标，更习惯使用执行意图：[Study Plan · Road2StrategyPM](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/InfoPlanCourseStudy.html) ，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
+一般不设目标，更习惯使用执行意图：[Study Plan · Road2StrategyPM](https://road2strategypm.ishanshan.im/CONTENT/InfoPlanCourseStudy.html) ，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
 
 ## 能分享的话题
 

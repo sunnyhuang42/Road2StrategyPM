@@ -14,5 +14,3 @@
 
 
 From [策略产品经理的实战修炼－在线课堂-三节课](https://class.sanjieke.cn/course/3610846.html)
-
-

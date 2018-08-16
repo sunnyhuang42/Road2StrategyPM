@@ -1,10 +1,22 @@
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 优秀实践 | 线上课程如何给用户良好的同侪环境？
 
-若想令用户线上学习效果良好，除了提供富有感染力的老师、优质的内容，良好的同侪环境也不能忽视：不仅激发学习动机，还能给用户提供更多优质信息。而信息，如加拿大哲学家 [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) 几十年前的预言，已成信息时代生存之源：
+若想令用户线上学习效果良好，除了提供富有感染力的老师、优质的内容，良好的同侪环境也不能忽视：不仅激发学习动机，还能给用户提供更多优质信息。而信息，如加拿大哲学家 [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) 几十年前所言，已成信息时代生存之源：
 
 > We have become like the most primitive Palaeolithic man, once more global wanderers, but information gatherers rather than food gatherers. From now on the source of food, wealth and life itself will be information.
 
 那如何提供良好的同侪环境？这里持续记录观察到的优秀实践：
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+  - [设置准入门槛，筛选旗鼓相当的同侪](#%E8%AE%BE%E7%BD%AE%E5%87%86%E5%85%A5%E9%97%A8%E6%A7%9B%E7%AD%9B%E9%80%89%E6%97%97%E9%BC%93%E7%9B%B8%E5%BD%93%E7%9A%84%E5%90%8C%E4%BE%AA)
+  - [设置输出任务，呈现同侪成果](#%E8%AE%BE%E7%BD%AE%E8%BE%93%E5%87%BA%E4%BB%BB%E5%8A%A1%E5%91%88%E7%8E%B0%E5%90%8C%E4%BE%AA%E6%88%90%E6%9E%9C)
+  - [呈现同侪动态](#%E5%91%88%E7%8E%B0%E5%90%8C%E4%BE%AA%E5%8A%A8%E6%80%81)
+  - [CHANGELOG](#changelog)
 
 ## 设置准入门槛，筛选旗鼓相当的同侪
 
@@ -45,6 +57,7 @@
 那筛选门槛如何实现？——所有用户默认关注「得到精选」，这个账号每天都会转发 10-30 条用户分享的优质内容，相当于变相筛选、营造优质同侪环境：
 
 ![getitannouncementdelstudygroup.jpg](http://ishanshan.qiniudn.com/share/getitannouncementdelstudygroup.jpg?imageView2/2/w/600)
+
 （图片来自[“学习小组”功能下线，相约“知识城邦”，得到想干什么？ - 简书](https://www.jianshu.com/p/5e3ea6865250)）
 
 方法不错，不过技术和运营成本高，其它团队若想借鉴，门槛不低。
@@ -55,6 +68,7 @@
 人们如何学习？在 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) h-index 以 136 位列第一的 [Richard E Mayer](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN) 教授归纳了 20 世纪至今三种主流隐喻：
 
 ![infolearningmetaphors.png](http://ishanshan.qiniudn.com/clipping/infolearningmetaphors.png?imageView2/2/w/500)
+
 （截图来自[Developing Multimedia for Learning - CIDDE_SIDI_2013](https://pdfs.semanticscholar.org/presentation/4eef/337cdb4ce0c591aea1833c77d8b536ea0af2.pdf)）
 
 为了使用户进入「Knowledge construction」这层隐喻的学习体验，大多课程都会给出练习任务，供用户 construct knowledge ，促进用户发生 `unknown unknown` -> `known unknown` -> `known known` 的实质转变。
@@ -92,7 +106,8 @@
     具体做法：每期课程在 organization 下新建一个 GitHub 仓库，作为用户交流及提交作业的平台。用户 fork 这个课程主库，按里头的模板积累个人成果到子库中，提交成果链接到主库对应 Issue 。至此，便可像常规开发操作一样基于主题或对方具体成果交流互动。
 
     ![sampledashboard.png](http://ishanshan.qiniudn.com/share/sampledashboard.png?imageView2/2/w/600)
-（截图来自 @小星 ）
+
+    （截图来自 @小星 ）
 
     这种方式，开发成本不高，但只适合注重字符输出的课程，以及得有能玩转 GitHub 的运营团队。
 

@@ -22,7 +22,7 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 - if 周四晚上健身，then 尽量选择自行车，以便参与课程群里的点评，否则周五中午饭后翻看
 - if 工作日 17:30 后手头没有必须当天交付的任务，then 翻看至少 1 篇增长策略类的文章，优先看公司群里推荐的
 
-迭代记录：https://github.com/ishanshan/Road2StrategyPM/commits/master/CONTENT/InfoPlanCourseStudy.md
+迭代记录：https://github.com/ishanshan/Road2StrategyPM/commits/master/Course3jkSPM/InfoPlanCourseStudy.md
 
 
 ## 实际执行情况
@@ -35,7 +35,7 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 - 没有每天看一篇增长策略图文，都是要解决问题时，再检索批量看一堆资料。不过平常不时浏览[湾区日报](https://wanqu.co/)和[哈佛商业评论](https://hbr.org/)，里面偶尔涉及商业模式和增长策略。
 
 
-也许是自己过往的积累和特质的确适合做产品，即使状况频出，学得也很开心，常有心流。 Chap2 开始作业被评为优秀，之后就一路挂在优秀榜上，并在这个 145 人的训练营里成为五位优秀学员之一。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。这可是产品经理和工程师扎堆的训练营啊(＾－＾)V 发现自己就这么点亮了新的技能树，开心~
+也许是自己过往的积累和特质的确适合做产品，即使状况频出，学得也很开心，常有心流。 Chap2 开始作业被评为优秀，之后就一路挂在优秀榜上，并在这个 145 人的训练营里成为五位优秀学员之一。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/Course3jkSPM/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。这可是产品经理和工程师扎堆的训练营啊(＾－＾)V 发现自己就这么点亮了新的技能树，开心~
 
 ![coursespm-certificate.png](http://ishanshan.qiniudn.com/share/coursespm-certificate2.png)
 

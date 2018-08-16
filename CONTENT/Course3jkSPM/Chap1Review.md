@@ -2,7 +2,7 @@
 
 ## 学习过程自评
 
-这周是开课第一周，给自己定下的目标是摸索适合自己的学习节奏，初步达成，未来几周可以继续按这个节奏学习：[Study Plan · Road2StrategyPM](https://road2strategypm.ishanshan.im/CONTENT/InfoPlanCourseStudy.html)。
+这周是开课第一周，给自己定下的目标是摸索适合自己的学习节奏，初步达成，未来几周可以继续按这个节奏学习：[Study Plan · Road2StrategyPM](https://road2strategypm.ishanshan.im/Course3jkSPM/InfoPlanCourseStudy.html)。
 
 
 

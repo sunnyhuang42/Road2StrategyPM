@@ -72,7 +72,7 @@
 	- 乐意主动搜寻信息，了解更多相关知识。比如在思考视频网站的输入信息时，顺带搜索了一下网站如何采集、使用用户信息。典型的比如 [腾讯隐私政策](http://www.qq.com/privacy.htm)。
 - 缺：由于条件边界太宽，且感觉自己一时穷举不尽，在作业中未给出细致的计算规则，只给出了很模糊的说法。
 
-更多本章反思，可见 [Review · Road2StrategyPM](https://road2strategypm.ishanshan.im/CONTENT/Chap1Review.html) 。
+更多本章反思，可见 [Review · Road2StrategyPM](https://road2strategypm.ishanshan.im/Course3jkSPM/Chap1Review.html) 。
 
 ## CHANGELOG 
 

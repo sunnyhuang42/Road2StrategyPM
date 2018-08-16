@@ -173,7 +173,7 @@ Part1 Task：
 - 有多个需求时，给出了需求优先级，以便工程组提升 ROI
 
 
-改进：在作业上没想到什么必须改的了……哈哈。不过作业的过程倒是挺多教训的，更多思考见 https://road2strategypm.ishanshan.im/CONTENT/Chap3Review.html 。
+改进：在作业上没想到什么必须改的了……哈哈。不过作业的过程倒是挺多教训的，更多思考见 https://road2strategypm.ishanshan.im/Course3jkSPM/Chap3Review.html 。
 
 # CHANGELOG 
 

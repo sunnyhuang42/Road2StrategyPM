@@ -457,9 +457,9 @@
 
 # 自评
 
-这么多作业里写得最快的一回……在没看视频的情况下，从开始思考到查资料、完成[初稿](https://github.com/ishanshan/Road2StrategyPM/blob/37b0106e8471458cda9ddbeb4470865fe63619df/CONTENT/Chap5Task.md)不到 4 小时——有切入点一切都好办：P
+这么多作业里写得最快的一回……在没看视频的情况下，从开始思考到查资料、完成[初稿](https://github.com/ishanshan/Road2StrategyPM/blob/37b0106e8471458cda9ddbeb4470865fe63619df/Course3jkSPM/Chap5Task.md)不到 4 小时——有切入点一切都好办：P
 
-不过后来补看视频、优化的时间，就花得比较多了……[二稿方案](https://github.com/ishanshan/Road2StrategyPM/blob/858353e0bec690ad08580f054391852db70880d2/CONTENT/Chap5Task.md)花了初稿的两倍，三稿又花了前两稿总时长的两倍 - -# 其实写二稿时，三稿涉及的背景信息自己都清楚，但偷懒没写出来。为了让助教能理解我设计逻辑，三稿借着把思路都写出来，连产品战略都有眉目了哈哈。
+不过后来补看视频、优化的时间，就花得比较多了……[二稿方案](https://github.com/ishanshan/Road2StrategyPM/blob/858353e0bec690ad08580f054391852db70880d2/Course3jkSPM/Chap5Task.md)花了初稿的两倍，三稿又花了前两稿总时长的两倍 - -# 其实写二稿时，三稿涉及的背景信息自己都清楚，但偷懒没写出来。为了让助教能理解我设计逻辑，三稿借着把思路都写出来，连产品战略都有眉目了哈哈。
 
 这一梳理越发觉得，优秀的策略产品经理，得先是优秀的产品经理，而优秀的产品经理，要有 CEO 潜质……
 

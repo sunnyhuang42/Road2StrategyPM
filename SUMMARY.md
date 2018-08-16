@@ -11,7 +11,7 @@
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
     - [先做大功能模块，还是优化型需求？](CONTENT/MurStartupDevPriority.md)
-    - [对下个机会的期待](CONTENT/InfoVocationRequirement.md)
+    - [对新发展机会的期待](CONTENT/InfoVocationRequirement.md)
 - [策略产品经理训练营手记](Course3jkSPM/ChapCourseStrategyPM.md)
     - [学习计划&执行情况](Course3jkSPM/InfoPlanCourseStudy.md)
     - [Final:毕业设计](Course3jkSPM/Chap6.md)

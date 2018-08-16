@@ -22,7 +22,7 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 - if 周四晚上健身，then 尽量选择自行车，以便参与课程群里的点评，否则周五中午饭后翻看
 - if 工作日 17:30 后手头没有必须当天交付的任务，then 翻看至少 1 篇增长策略类的文章，优先看公司群里推荐的
 
-迭代记录：https://github.com/ishanshan/Road2StrategyPM/commits/master/Course3jkSPM/InfoPlanCourseStudy.md
+
 
 
 ## 实际执行情况

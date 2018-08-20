@@ -26,7 +26,7 @@
 
 - Python 代码规范：[PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/) 
 - 思考和开发习惯向 [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy) 靠拢，写清晰易懂的代码
-- 设定样式大小时，设置基础值，其它依赖函数关系自动增减即可：
+- 设定样式大小时，设置基础值，其它依赖函数关系自动增减即可。比如：
 
         // Font size
         $font-size-base           : 17px;
@@ -48,7 +48,7 @@
 - 如何向别人清晰解释某个特性用法，可参看这个理解
     - 反面案例：[python - seek() function? - Stack Overflow](https://stackoverflow.com/questions/11696472/seek-function)
     - 正面案例：[seek — Python Reference (The Right Way) 0.1 documentation](https://python-reference.readthedocs.io/en/latest/docs/file/seek.html)
-- 如何令初阶用户也能在非 CLI 界面轻松理解、自行修改配置，可参看这个  blog [_config.yml]() 怎么写。
+- 如何令初阶用户也能在非 CLI 界面轻松理解、自行修改配置，可参看这个  blog [_config.yml](https://github.com/ishanshan/ishanshan.github.io/blob/master/_config.yml) 怎么写。
 
 
 

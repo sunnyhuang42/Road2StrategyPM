@@ -6,6 +6,7 @@
     - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
     - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
     - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)
+    - [Elegant Coding Style](CONTENT/HbElegantCodingStyle.md)
     - [策略产品经理工作锦囊](CONTENT/Tips4StrategyPM.md)
     - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
 - [杂记](CONTENT/ChapNotes.md)

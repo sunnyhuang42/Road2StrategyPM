@@ -10,7 +10,6 @@
 
 ### 这些任务如何设置或表述更易达到教学目标？
 
-
 这些小问题如何设置更易激发用户参与、助其运用所学？在线教育支持服务提供商 Thinkific Team 总结了几个常用策略，并给出详细示例，详见 [4 Strategies To Boost Participation In Online Courses - Thinkific](https://www.thinkific.com/blog/4-strategies-boost-participation-online-courses/)：
 
 1. A good question is open-ended 

@@ -28,6 +28,8 @@
 - 思考和开发习惯向 [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy) 靠拢
 
 
+
 ## CHANGELOG 
 
 - 180716 创建
+

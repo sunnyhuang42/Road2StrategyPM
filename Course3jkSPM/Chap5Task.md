@@ -139,9 +139,11 @@
 
 还未有合适解决方案的需求，就是蜗牛的机会。
 
-先看上述知识焦虑的烦恼：要破解这个难题，得用户自己行动起来，从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)）。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动的选择、组织和整合——
-
-![infomeaningfullearning.jpg](http://ishanshan.qiniudn.com/share/infomeaningfullearning.jpg?imageView2/2/w/500)
+先看上述知识焦虑的烦恼：要破这个困局，**需帮助用户从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)），从知道变为掌握——能迁移运用**。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），**意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动选择（selecting）、组织（organizing）和整合（integrating）**——
+        
+![three cognitive processes_required_for_meaningful_learning.png](http://openmindclub.zoomquiet.top/ishanshan/three%20cognitive%20processes_required_for_meaningful_learning.png?imageView2/2/w/500)
+    
+（这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](http://hilt.harvard.edu/files/hilt/files/mayerslides.pdf)）
 
 而人类大脑有两个特点：
 
@@ -475,6 +477,7 @@
 
 # CHANGELOG 
 
+- 180821 闪闪更新 active processing 相关资料
 - 180602 闪闪更新自评
 - 180601 闪闪增补所需图片、表格
 - 180531 闪闪大幅增补项目背景中对整个产品的分析

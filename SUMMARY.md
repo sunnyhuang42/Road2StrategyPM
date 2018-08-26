@@ -1,6 +1,6 @@
 # Summary
 
-- [About Me](CONTENT/InfoSelfIntro.md)
+- [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
     - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
     - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)

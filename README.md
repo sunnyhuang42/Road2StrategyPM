@@ -1,12 +1,12 @@
 # 策略产品经理修炼手记
 
-2018 年春，由于工作需要，我开始接触策略产品经理相关讯息。所思所得终要有个出口才心安，索性记录在此，以便检视复盘。
+2018 年春，由于工作需要，我开始接触策略产品经理相关讯息。所思所得终要有个出口，才好检视复盘、交流分享，索性记录在此。
+
+Read: https://road2strategypm.ishanshan.im/
 
 <br>
 
 Author: [@ishanshan](https://github.com/ishanshan)
-
-GitBook: https://road2strategypm.ishanshan.im/
 
 Blog: https://ishanshan.im/
 

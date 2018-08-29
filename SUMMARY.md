@@ -11,7 +11,7 @@
     - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
-    - [这波内容付费平台，困境和出路会在哪?](CONTENT/TipsLightEduProductChallenge.md)
+    - [✪这波内容付费平台，困境和出路会在哪?](CONTENT/TipsLightEduProductChallenge.md)
     - [先做大功能模块，还是优化型需求？](CONTENT/MurStartupDevPriority.md)
 - [策略产品经理训练营手记](Course3jkSPM/ChapCourseStrategyPM.md)
     - [学习计划&执行情况](Course3jkSPM/InfoPlanCourseStudy.md)

@@ -4,6 +4,8 @@
 
 目录：
 
+> 为保证阅读体验，请从上述地址进入查看，要不有些内容显示不出来哦。
+
 - [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
     - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)

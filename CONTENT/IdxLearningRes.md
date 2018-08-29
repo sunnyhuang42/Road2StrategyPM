@@ -51,4 +51,5 @@ SQL: [SQL Tutorial-w3schools.com](https://www.w3schools.com/sql/default.asp)
 
 ## CHANGELOG 
 
+- 180829 闪闪增补资源
 - 180816 闪闪创建

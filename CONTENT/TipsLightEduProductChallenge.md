@@ -22,6 +22,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+
 <br> 
 
 直接思考「这波内容付费/轻在线教育平台，未来的困境和出路会在哪」，容易懵也容易飘。加之我并不企图寻找大而全的答案，于是换个角度，限定空间——走在最前面的平台，限定时间——未来 3-5 年。

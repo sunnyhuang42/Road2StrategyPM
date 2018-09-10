@@ -1,6 +1,22 @@
+
 # 教育场景下的 AI 应用案例集
 
 ~ 持续汇集教育场景下优质的 AI 应用案例，扩展想象空间。
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+  - [新人评测（以便匹配合适的学习内容）](#%E6%96%B0%E4%BA%BA%E8%AF%84%E6%B5%8B%E4%BB%A5%E4%BE%BF%E5%8C%B9%E9%85%8D%E5%90%88%E9%80%82%E7%9A%84%E5%AD%A6%E4%B9%A0%E5%86%85%E5%AE%B9)
+    - [测评专项技能](#%E6%B5%8B%E8%AF%84%E4%B8%93%E9%A1%B9%E6%8A%80%E8%83%BD)
+    - [采集兴趣和学习目的](#%E9%87%87%E9%9B%86%E5%85%B4%E8%B6%A3%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%9B%AE%E7%9A%84)
+  - [课堂效率](#%E8%AF%BE%E5%A0%82%E6%95%88%E7%8E%87)
+    - [线上小班或一对一授课](#%E7%BA%BF%E4%B8%8A%E5%B0%8F%E7%8F%AD%E6%88%96%E4%B8%80%E5%AF%B9%E4%B8%80%E6%8E%88%E8%AF%BE)
+    - [线下大课](#%E7%BA%BF%E4%B8%8B%E5%A4%A7%E8%AF%BE)
+    - [线上大课](#%E7%BA%BF%E4%B8%8A%E5%A4%A7%E8%AF%BE)
+  - [CHANGELOG](#changelog)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 ## 新人评测（以便匹配合适的学习内容）
 

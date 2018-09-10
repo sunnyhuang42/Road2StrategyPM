@@ -3,6 +3,7 @@
 - [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
     - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
+    - [借 AI 促进教学的场景](CONTENT/InfoBestPracticeAIedu.md)
     - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
     - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
     - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)

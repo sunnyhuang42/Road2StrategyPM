@@ -8,14 +8,16 @@
 
 - [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
-    - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
-    - [借 AI 促进教学的场景](CONTENT/InfoBestPracticeAIedu.md)
-    - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
-    - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
-    - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)
-    - [Elegant Coding Style](CONTENT/HbElegantCodingStyle.md)
-    - [策略产品经理工作锦囊](CONTENT/Tips4StrategyPM.md)
-    - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
+    - 教育领域
+        - [借 AI 促进教学的案例](CONTENT/InfoBestPracticeAIedu.md)
+        - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
+        - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
+        - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)
+    - 通用
+        - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
+        - [Elegant Coding Style](CONTENT/HbElegantCodingStyle.md)
+        - [策略产品经理工作锦囊](CONTENT/Tips4StrategyPM.md)
+        - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
     - [✪这波内容付费平台困境出路会在哪?](CONTENT/TipsLightEduProductChallenge.md)
@@ -40,6 +42,7 @@
     - [Chap1:了解策略和策略产品](Course3jkSPM/Chap1.md)
         - [Task:分析两个功能中的策略四要素](Course3jkSPM/Chap1Task.md)
         - [学习过程复盘](Course3jkSPM/Chap1Review.md)
+	
 
 <br>
 

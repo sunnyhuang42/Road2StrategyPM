@@ -36,4 +36,3 @@
     - [Chap1:了解策略和策略产品](Course3jkSPM/Chap1.md)
         - [Task:分析两个功能中的策略四要素](Course3jkSPM/Chap1Task.md)
         - [学习过程复盘](Course3jkSPM/Chap1Review.md)
-	

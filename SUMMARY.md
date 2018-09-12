@@ -3,9 +3,9 @@
 - [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
     - 教育领域
-        - [借 AI 促进教学的案例](CONTENT/InfoBestPracticeAIedu.md)
         - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
         - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
+        - [借 AI 促进教学的案例](CONTENT/InfoBestPracticeAIedu.md)
         - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)
     - 通用
         - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
@@ -29,7 +29,7 @@
         - [Task:优化微博搜索体验](Course3jkSPM/Chap4Task.md)
         - [学习过程复盘](Course3jkSPM/Chap4Review.md)
     - [Chap3:策略产品工作的通用方法论](Course3jkSPM/Chap3.md)
-        - [Task:优化小红书购买体验](Course3jkSPM/Chap3Task.md)
+        - [Task:优化小红书支付体验](Course3jkSPM/Chap3Task.md)
         - [学习过程复盘](Course3jkSPM/Chap3Review.md)
     - [Chap2:策略产品发现问题的四个方法](Course3jkSPM/Chap2.md)
         - [Task:优化豆瓣图书推荐效果](Course3jkSPM/Chap2Task.md)

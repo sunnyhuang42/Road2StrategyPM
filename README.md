@@ -6,12 +6,14 @@
 
 > 如果你正处于 GitHub 站内，请点击上述地址查看，要不有些内容显示不出来哦。
 
+
+
 - [About Me](https://ishanshan.im/about/)
 - [最佳实践观察手记](CONTENT/ChapBestPractices.md)
     - 教育领域
+        - [线上课程如何给用户良好的同侪环境？](CONTENT/InfoBestPrecticePeerEnviroment.md)
+        - [怎样设置练习任务更易达到教学目标？](CONTENT/InfoBestPracticeAssignmentDesign.md)
         - [借 AI 促进教学的案例](CONTENT/InfoBestPracticeAIedu.md)
-        - [线上课程如何给用户良好的同侪环境](CONTENT/InfoBestPrecticePeerEnviroment.md)
-        - [怎样设置练习任务更易达到教学目标](CONTENT/InfoBestPracticeAssignmentDesign.md)
         - [三节课教学模式亮点](CONTENT/InfoLearnFromsanjieke.md)
     - 通用
         - [优雅的信息架构](CONTENT/InfoBestPracticeIA.md)
@@ -21,7 +23,7 @@
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
     - [✪这波内容付费平台困境出路会在哪?](CONTENT/TipsEduSuperficialProductChallenge.md)
-    - [✪K12 头部教育产品如何高效增加复购？](CONTENT/TipsEduK12Effect.md)
+    - [✪K12 头部产品如何高效增加复购？](CONTENT/TipsEduK12Effect.md)
     - [先做大功能模块，还是优化型需求？](CONTENT/MurStartupDevPriority.md)
 - [策略产品经理训练营手记](Course3jkSPM/ChapCourseStrategyPM.md)
     - [学习计划&执行情况](Course3jkSPM/InfoPlanCourseStudy.md)
@@ -35,7 +37,7 @@
         - [Task:优化微博搜索体验](Course3jkSPM/Chap4Task.md)
         - [学习过程复盘](Course3jkSPM/Chap4Review.md)
     - [Chap3:策略产品工作的通用方法论](Course3jkSPM/Chap3.md)
-        - [Task:优化小红书购买体验](Course3jkSPM/Chap3Task.md)
+        - [Task:优化小红书支付体验](Course3jkSPM/Chap3Task.md)
         - [学习过程复盘](Course3jkSPM/Chap3Review.md)
     - [Chap2:策略产品发现问题的四个方法](Course3jkSPM/Chap2.md)
         - [Task:优化豆瓣图书推荐效果](Course3jkSPM/Chap2Task.md)

@@ -1,6 +1,6 @@
 # 策略产品经理修炼手记
 
-2018 年春，由于工作需要，我开始接触策略产品经理相关讯息。所思所得终要有个出口，才好检视复盘、交流分享，索性记录在此：https://road2strategypm.ishanshan.im/ 。
+2018 年春，由于业务需要精细化运营，我开始接触策略产品经理相关讯息。所思所得终要有个出口，才好检视复盘、交流分享，索性记录在此：https://road2strategypm.ishanshan.im/ 。
 
 目录：
 
@@ -20,7 +20,8 @@
         - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
-    - [✪这波内容付费平台困境出路会在哪?](CONTENT/TipsLightEduProductChallenge.md)
+    - [✪这波内容付费平台困境出路会在哪?](CONTENT/TipsEduSuperficialProductChallenge.md)
+    - [✪K12 头部教育产品如何高效增加复购？](CONTENT/TipsEduK12Effect.md)
     - [先做大功能模块，还是优化型需求？](CONTENT/MurStartupDevPriority.md)
 - [策略产品经理训练营手记](Course3jkSPM/ChapCourseStrategyPM.md)
     - [学习计划&执行情况](Course3jkSPM/InfoPlanCourseStudy.md)
@@ -42,7 +43,6 @@
     - [Chap1:了解策略和策略产品](Course3jkSPM/Chap1.md)
         - [Task:分析两个功能中的策略四要素](Course3jkSPM/Chap1Task.md)
         - [学习过程复盘](Course3jkSPM/Chap1Review.md)
-	
 
 <br>
 

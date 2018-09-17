@@ -202,12 +202,14 @@
 
 这篇文章写后没多久，「得到」上线了新项目「得到大学」，用三个月的时间，使学习者拥有解决问题的元能力：
 
+
 * [得到大学第 0 期招生简章](https://mp.weixin.qq.com/s/MjCfahYBh0i4ntbKpDloGg)
 * 上线这个项目背后的思考：
-    * [项目上线前的的周例会（9月4日）介绍「得到大学」启动构想](https://pic1cdn.luojilab.com/html/poster/picYwMjRB3RjwTwjL50XYY7.html?tfrom=text_nav)   
-    * [第576期 | 终身学习，学什么？](https://m.igetget.com/share/course/article/article_id/82109)
-    * [第577期 | 回到“本来面目”](https://m.igetget.com/share/course/article/article_id/82122)
-    * [第578期 | 递进式创新](https://m.igetget.com/share/course/article/article_id/82147)
+    * [项目上线前的的周例会（9月4日）团队创始人介绍「得到大学」启动构想](https://pic1cdn.luojilab.com/html/poster/picYwMjRB3RjwTwjL50XYY7.html?tfrom=text_nav)   
+    * 项目上线后，罗振宇介绍这个项目特点：
+        * [第576期 | 终身学习，学什么？](https://m.igetget.com/share/course/article/article_id/82109)
+        * [第577期 | 回到“本来面目”](https://m.igetget.com/share/course/article/article_id/82122)
+        * [第578期 | 递进式创新](https://m.igetget.com/share/course/article/article_id/82147)
     
 哈哈估计很多从业者始料未及——内容付费公司为什么要做如此重运营的业务？
 

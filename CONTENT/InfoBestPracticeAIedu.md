@@ -40,6 +40,8 @@
 
 ### 线上小班或一对一授课
 
+目前英语教育领域主要实现了这些效果：
+
 ![aiedu0.png](http://openmindclub.zoomquiet.top/ishanshan/aiedu0.png)
 
 摘自 [亿欧智库：2018中国少儿在线英语教育行业研究报告.pdf](https://img1.iyiou.com/ThinkTank/2018/%E4%BA%BF%E6%AC%A7%E6%99%BA%E5%BA%93%EF%BC%9A2018%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%84%BF%E5%9C%A8%E7%BA%BF%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)

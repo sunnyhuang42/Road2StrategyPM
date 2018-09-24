@@ -69,7 +69,7 @@
         
     ![three cognitive processes_required_for_meaningful_learning.png](http://openmindclub.zoomquiet.top/ishanshan/three%20cognitive%20processes_required_for_meaningful_learning.png?imageView2/2/w/500)
         
-    （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](http://hilt.harvard.edu/files/hilt/files/mayerslides.pdf)）
+    （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
     
     此外，**不仅让以上变化发生，还令用户切身感受到变化，才易保有用户注意力**。
 
@@ -225,6 +225,7 @@
 
 ## CHANGELOG 
 
+- 180924 修复 Mayer 的 HILT 演讲幻灯链接
 - 180914 增补后记
 - 180826 更新
 - 180822 增补

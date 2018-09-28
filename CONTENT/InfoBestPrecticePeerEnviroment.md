@@ -4,6 +4,8 @@
 
 # 优秀实践 | 线上课程如何给用户良好的同侪环境？
 
+~ 持续积累利用同侪环境促进学习效果的优秀实践。
+
 若想令用户线上学习效果良好，除了提供富有感染力的老师、优质的内容，良好的同侪环境也不能忽视：不仅激发学习动机，还能给用户提供更多优质信息。而信息，如加拿大哲学家 [Marshall McLuhan](https://en.wikipedia.org/wiki/Marshall_McLuhan) 几十年前所言，已成信息时代生存之源：
 
 > We have become like the most primitive Palaeolithic man, once more global wanderers, but information gatherers rather than food gatherers. From now on the source of food, wealth and life itself will be information.
@@ -103,7 +105,7 @@
 
 2. 利用现有平台，如 GitHub dashboard，可查看所在 org 下自己有访问权限的所有仓库及其子库的动态，包括 commit/comment/new issue 等，见 [About your organization dashboard - User Documentation](https://help.github.com/articles/about-your-organization-dashboard/)。开智学堂的课程便是借助这个特性，低成本地令用户了解同侪动态。用户还可直接关注同侪 GitHub 账号，了解对方更多动态。
 
-    具体做法：每期课程在 organization 下新建一个 GitHub 仓库，作为用户交流及提交作业的平台。用户 fork 这个课程主库，按里头的模板积累个人成果到子库中，提交成果链接到主库对应 Issue 。至此，便可像常规开发操作一样基于主题或对方具体成果交流互动。
+    具体做法：每期课程在 organization 下新建一个 GitHub 仓库，作为用户交流及提交作业的平台。用户 fork 这个课程主库，按里头的模板积累个人成果到子库中，提交成果链接到主库对应 Issue 。至此，便可像常规开发操作一样基于主题或对方具体成果交流互动。比如：
 
     ![sampledashboard.png](http://ishanshan.qiniudn.com/share/sampledashboard.png?imageView2/2/w/600)
 
@@ -111,7 +113,10 @@
 
     这种方式，开发成本不高，但只适合注重字符输出的课程，以及得有能玩转 GitHub 的运营团队。
 
-写到这里，我忽然明白，为何提供优质同侪环境的线上课程平台少之又少……
+--
+
+
+写到这里，忽然明白，为何提供优质同侪环境的线上课程平台少之又少，国外线上教学产品更是鲜见优质同侪氛围——要想做好，对团队技术和运营的能力要求都挺高……
 
 
 

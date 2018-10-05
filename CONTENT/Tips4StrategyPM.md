@@ -78,7 +78,7 @@
 
 如何应对，[How to Solve It - Wikipedia](https://en.wikipedia.org/wiki/How_to_Solve_It) 早已道尽奥秘：明确目标，弄清已知、未知数据以及他们的关系，明确边界条件，制定计划，执行计划，效果回归：
 
-![chart-how-to-solve-it_polya.jpg](http://ishanshan.qiniudn.com/share/chart-how-to-solve-it_polya.jpg)
+![chart-how-to-solve-it_polya.jpg](http://ishanshan.zoomquiet.top/share/chart-how-to-solve-it_polya.jpg)
 
 ### 关注用户故事
 

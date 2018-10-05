@@ -40,7 +40,7 @@
 
 最致命的是，进去之后先创建文件/文件夹，再创建各节点：
 
-![sampleia_mubu.jpeg](http://ishanshan.qiniudn.com/share/sampleia_mubu.jpeg?imageView2/2/w/400)
+![sampleia_mubu.jpeg](http://ishanshan.zoomquiet.top/share/sampleia_mubu.jpeg?imageView2/2/w/400)
 
 这完全违背上述奥秘，也违背卡片层级需要方便移动、组合的根本诉求：写卡片写卡片，目的自在输出更高层级的作品，需易**整合**才宜创造。
 
@@ -94,7 +94,7 @@
 
 规则：问诊按次收费，付费后 24 小时为问诊时间，IM 形式无限次交流。比如「春雨医生」。
 
-效果：交互无限次，双方 ROI 都低。虽然 IM 形式是大伙儿最习惯的交互形式，这种形态用于解决问题真的很低效。比如我的问诊案例：[「春雨医生」](http://ishanshan.qiniudn.com/share/sampleia_qa_dr.chunyu.jpeg?imageslim)VS[「丁香医生」](http://ishanshan.qiniudn.com/share/sampleia_qa_dr.dingxiang.jpeg?imageslim)，我把在丁香医生提问的内容，原封不动地复制到春雨医生问了一遍，结果那位医生第一交互回合就只回了 2 行的短句，而且问的都是我提问里已经写清楚的内容……不排除这俩医生信息素养本来就不一样，但平台机制确实影响不小。
+效果：交互无限次，双方 ROI 都低。虽然 IM 形式是大伙儿最习惯的交互形式，这种形态用于解决问题真的很低效。比如我的问诊案例：[「春雨医生」](http://ishanshan.zoomquiet.top/share/sampleia_qa_dr.chunyu.jpeg?imageslim)VS[「丁香医生」](http://ishanshan.zoomquiet.top/share/sampleia_qa_dr.dingxiang.jpeg?imageslim)，我把在丁香医生提问的内容，原封不动地复制到春雨医生问了一遍，结果那位医生第一交互回合就只回了 2 行的短句，而且问的都是我提问里已经写清楚的内容……不排除这俩医生信息素养本来就不一样，但平台机制确实影响不小。
 
 
 
@@ -106,14 +106,14 @@
 
 目前看到三节课的界面做得不错：课程主页面左边能直接查看（滑出效果）整个课程目录、右边能查看课程作业目录，不必跳转来跳转去才能看到，给用户全局感和掌控感，不易迷失。
 
-![iasample-3jieke1.gif](http://ishanshan.qiniudn.com/share/iasample-3jieke1.gif)
+![iasample-3jieke1.gif](http://ishanshan.zoomquiet.top/share/iasample-3jieke1.gif)
 
 ### 反面案例
 
 相比之下，开智旧版的卡片系统就是典型的负面案例了：虽也强调输出，但用户无法快速了解整期课程作业都是什么，全是卡片，而且层级深，翻着翻着容易迷失甚至行动瘫痪：
 
 
-![iasample-omc.gif](http://ishanshan.qiniudn.com/share/iasample-omc.gif)
+![iasample-omc.gif](http://ishanshan.zoomquiet.top/share/iasample-omc.gif)
 
 ## CHANGELOG  
 

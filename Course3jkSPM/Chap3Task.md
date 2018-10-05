@@ -84,7 +84,7 @@ Part1 Task：
 在已有订单（包括待付款、待收货、已完成、已取消状态）中增加「再次购买」入口，以便用户快速再次下单。具体页面逻辑如下 ：
 
 
-![pmcoursech3xhs-1.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-1.png)
+![pmcoursech3xhs-1.png](http://ishanshan.zoomquiet.top/share/pmcoursech3xhs-1.png)
 （原图地址：https://www.processon.com/view/link/5afbd825e4b00268626785ec ）
 
 ### 2. 增加订单即将超时提醒机制
@@ -117,7 +117,7 @@ Part1 Task：
 
 但结合上述竞品调研结果和小红书已形成的用户认知，拟继续保持 30mins 支付时限。不过对不同商品和不同用户按如下规则做微调，见下述支付时限判断规则：
 
-![pmcoursech3xhs-4.png](http://ishanshan.qiniudn.com/share/pmcoursech3xhs-4.png)
+![pmcoursech3xhs-4.png](http://ishanshan.zoomquiet.top/share/pmcoursech3xhs-4.png)
 （原图地址：https://www.processon.com/view/link/59706f1ee4b01fc0fe2031bc ） 
 
 浮框提示文案：

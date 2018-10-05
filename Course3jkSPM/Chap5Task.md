@@ -60,7 +60,7 @@
 
 网易蜗牛读书是网易 2017 年 3 月推出的一款数字阅读应用。此前网易已有网易云阅读覆盖下述产业链，但期待满足更细分的用户需求，所以推出以出版图书为主，提倡慢阅读、不疾而速的网易蜗牛读书。
 
-![coursespm-ereading-market9.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market9.jpg)
+![coursespm-ereading-market9.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-market9.jpg)
 （图片源自 [2018年中国数字阅读行业案例研究报告](http://report.iresearch.cn/report_pdf.aspx?id=3209)）
 
 > 之所以在网易云阅读等平台已经先成立的情况下继续做蜗牛读书这样一款产品，基于这样一些数据分析：比如从后台看网易云阅读这样一个综合平台的数据发现，看网络文学和出版图书的用户在该平台上的重合度不超过 10%，并且很少交集和互动，且这两波用户和关注资讯的人，在需求方面往往也很难让平台同时满足，这样就会导致产品不能面面俱到地同时满足。此外，越来越式的年轻人在关注图书出版模块，网易文漫团队发现年轻人有这样一类更向往自由支配时间的特征和行为，所以可能蜗牛图书更适合这样一个人群期待。
@@ -79,10 +79,10 @@
 目前网易蜗牛读书、微信读书、kindle 电子书和得到 App 的百度指数如下：
 
 
-![coursespm-ereading-searchindex1.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-searchindex1.png)
-![coursespm-ereading-searchindex2.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-searchindex2.png)
-![coursespm-ereading-searchindex3.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-searchindex3.png)
-![coursespm-ereading-searchindex4.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-searchindex4.png)
+![coursespm-ereading-searchindex1.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-searchindex1.png)
+![coursespm-ereading-searchindex2.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-searchindex2.png)
+![coursespm-ereading-searchindex3.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-searchindex3.png)
+![coursespm-ereading-searchindex4.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-searchindex4.png)
 
 通过百度指数对比及各产品的产品介绍，发现
 
@@ -122,7 +122,7 @@
 	- 免费用户每天 1h 免费阅读时长，可领取 7 天。
 2. 用户在 App 里发布内容，不一定要基于某一本书（比如必须是某本书的评注），而是创建一篇文章，可以不添加任何站内图书链接，也可以添加多本站内图书链接：
 
-	![coursespm-ereading-sample2.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-sample2.jpg)
+	![coursespm-ereading-sample2.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-sample2.jpg)
 		
 单看这俩特性并不稀奇，需要再看有哪些用户需求还没被满足，即市场机会。
 
@@ -280,7 +280,7 @@
 
 以及这条更难的路会越走越简单——根据创新的扩散理论（[Diffusion of innovations](https://en.wikipedia.org/wiki/Diffusion_of_innovations)），如果能找到那批冒险家和意见领袖并赢得他们的认同，后面向大众传播将轻松不少：
 
-![info-innovations-diffusion_rogers_curve.gif](http://ishanshan.qiniudn.com/share/info-innovations-diffusion_rogers_curve.gif)
+![info-innovations-diffusion_rogers_curve.gif](http://ishanshan.zoomquiet.top/share/info-innovations-diffusion_rogers_curve.gif)
 
 
 
@@ -302,19 +302,19 @@
 
 - 调整站内内容分享到各界面的内容：
 
-	[![coursespm-ereading-marketdemo5.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo5.png)](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo5.png)
+	[![coursespm-ereading-marketdemo5.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo5.png)](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo5.png)
 
 - 增加把站内内容以海报图片形式分享到站外的功能（在朋友圈信息流里，好看的图片比图文链接更吸引注意力）：
 
-	[![coursespm-ereading-marketdemo6.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo6.png)](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo6.png)
+	[![coursespm-ereading-marketdemo6.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo6.png)](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo6.png)
 
 - 优化文内图书阅读入口（入口指[这个](https://du.163.com/share/bookreview/2000027670?user=033f8ee8ce20454a84b27780f759fcde)）样式，增加豆瓣阅读评分数据：
 
-	[![coursespm-ereading-marketdemo4.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo4.png)](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo4.png)
+	[![coursespm-ereading-marketdemo4.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo4.png)](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo4.png)
 
 - 优化把某本图书生成推荐图的功能，增加豆瓣评分，促进用户用于公众号等图文中。图中带蜗牛读书中该书的二维码，用户扫描二维码即可进入改图书的蜗牛读书页面。推荐图 demo ：
 
-	[![coursespm-ereading-marketdemo8.jpeg](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo8.jpeg)](http://ishanshan.qiniudn.com/share/coursespm-ereading-marketdemo8.jpeg)
+	[![coursespm-ereading-marketdemo8.jpeg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo8.jpeg)](http://ishanshan.zoomquiet.top/share/coursespm-ereading-marketdemo8.jpeg)
 
 注：突出豆瓣评分，是因为目前蜗牛读书站内没有图书评分，而豆瓣属目前国人接受度最广的图书评分，且该心智定位一时半会儿难以改变。如此，把豆瓣评分放在图中，利于蜗牛读书成为推荐书单必备工具。
 
@@ -350,16 +350,16 @@
 - 其它场景用户注意力可能分散在多处，比如他可能在家里刷朋友圈、看视频等。
 - 从去年数字阅读营销动作来看，主要玩家都已意识到仅依靠社交媒体进行社会化营销效率低下，纷纷开始跨界营销：
 
-	![coursespm-ereading-market5.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market5.jpg)
-	![coursespm-ereading-market6.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market6.jpg)
-	![coursespm-ereading-market7.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market7.jpg)
+	![coursespm-ereading-market5.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-market5.jpg)
+	![coursespm-ereading-market6.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-market6.jpg)
+	![coursespm-ereading-market7.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-market7.jpg)
 	（图片摘自[易观：2017移动阅读市场跨界营销专题分析（附下载） | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/698074.html)）
 
 - 出行场景既是线下场景，还是个高频场景。
 	- 是目标用户日常高频场景：早晚通勤高峰、出差等，和高频场景关联的行为（用网易蜗牛读书）一旦开始，很容易保持——想让用户养成新习惯，最好的办法是让新习惯和旧习惯绑定。
 	- 是阅读行为的高发场景：网络不稳定，周围不一定有人聊天，也干不了啥，想不浪费时间还是看会儿书吧：
 		
-		![coursespm-ereading-market10.jpg](http://ishanshan.qiniudn.com/share/coursespm-ereading-market10.jpg)
+		![coursespm-ereading-market10.jpg](http://ishanshan.zoomquiet.top/share/coursespm-ereading-market10.jpg)
 		
 		（图片摘自 [网易云阅读：2014年移动阅读用户调查 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/archives/324238.html)）	
 	
@@ -410,7 +410,7 @@
 	* 降低用户进入门槛——出行场景下扫码即可在 web 版选书、简单浏览内容，不一定要下载 App 。
 	* 满足用户想在 PC 端查看的需求——通过百度指数发现，网易蜗牛读书的相关搜索词，多和 PC 端有关：
 	
-		![coursespm-ereading-searchindex-relatedword.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-searchindex-relatedword.png)
+		![coursespm-ereading-searchindex-relatedword.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-searchindex-relatedword.png)
 
 * 采集用户阅读兴趣，以便书籍以更符合用户兴趣的顺序呈现，降低新用户流失概率：
 	* 现在用户进来后流失风险较大：「分类」页面及其子页面千人一面，而且显眼的「在读榜」「新书榜」，很可能是不感兴趣的图书。
@@ -418,7 +418,7 @@
 
 		改版 demo 见右下图：
 	
-		[![woniureadingdemocompare.jpg](http://ishanshan.qiniudn.com/share/woniureadingdemocompare.jpg?imageMogr2/size-limit/100k!)](http://ishanshan.qiniudn.com/share/woniureadingdemocompare.jpg)
+		[![woniureadingdemocompare.jpg](http://ishanshan.zoomquiet.top/share/woniureadingdemocompare.jpg?imageMogr2/size-limit/100k!)](http://ishanshan.zoomquiet.top/share/woniureadingdemocompare.jpg)
 
 		修改要点：
 		
@@ -437,7 +437,7 @@
 	
 * 增加提案上架图书的入口，以便用户告诉平台想看哪本未上架图书、团队知悉更应该先上架哪些图书，也利于给用户完整的找书体验。处理方式可参考微信读书对未上架图书的「订阅上架通知」功能：
 
-	[![coursespm-ereading-demo2.png](http://ishanshan.qiniudn.com/share/coursespm-ereading-demo2.png)](http://ishanshan.qiniudn.com/share/coursespm-ereading-demo2.png)
+	[![coursespm-ereading-demo2.png](http://ishanshan.zoomquiet.top/share/coursespm-ereading-demo2.png)](http://ishanshan.zoomquiet.top/share/coursespm-ereading-demo2.png)
 	
 	需引入豆瓣书库作为基础数据库，当用户检索时，不同图书状态响应如下：
 

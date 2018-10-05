@@ -93,13 +93,13 @@
 
 - 直接表达的，保证搜索结果首条结果即可概览天气预报，且**可在该页直接查询天气**，demo：
 	
-	![coursespm-weathersearch1.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch1.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+	![coursespm-weathersearch1.png](http://ishanshan.zoomquiet.top/share/coursespm-weathersearch1.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
 	
-	![coursespm-weathersearch.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+	![coursespm-weathersearch.png](http://ishanshan.zoomquiet.top/share/coursespm-weathersearch.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
 	
 - 推测用户有出行需求的，则**在侧边栏展示对应城市天气概况**，不影响现行主体排序结果。demo：
 
-	![coursespm-weathersearch2.png](http://ishanshan.qiniudn.com/share/coursespm-weathersearch2.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
+	![coursespm-weathersearch2.png](http://ishanshan.zoomquiet.top/share/coursespm-weathersearch2.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/200k!)
 
 
 #### 3. 具体判断策略和所需词典

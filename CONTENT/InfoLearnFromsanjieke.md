@@ -18,7 +18,7 @@
 	- 给每个训练营配备了一个班主任，班主任的群昵称为 `鸭梨班班：你今天学习了吗` 。如此，每次班班发言都在提醒你学习……
 	- 及时根据学习节奏改群名：比如到了交作业前两天，改为`【记得交作业】XXX 课程`。群里每天都有人发言，如此这句提醒便经常出现在你微信顶部……
 	- 微信服务号每周三自动督促用户学习，提醒进度；收到教练点评也会收到提醒。
-	![samplecoursereminder2.png](http://ishanshan.qiniudn.com/share/samplecoursereminder1.png?imageView2/2/w/600)
+	![samplecoursereminder2.png](http://ishanshan.zoomquiet.top/share/samplecoursereminder1.png?imageView2/2/w/600)
 
 - 措辞亲切有温度：
 	- 开课伊始，学习手册里就注明如果没及时交作业，班班可能送上**亲切关怀**。

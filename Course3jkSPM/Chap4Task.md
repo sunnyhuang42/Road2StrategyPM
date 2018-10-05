@@ -94,7 +94,7 @@
 
 在该维度上，主要以微信、Facebook、Twitter、Instagram 和微博比对。
 
-![coursespm-weibosearch.003.jpeg](http://ishanshan.qiniudn.com/share/coursespm-weibosearch.003.jpeg?imageMogr2/size-limit/100k!)
+![coursespm-weibosearch.003.jpeg](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch.003.jpeg?imageMogr2/size-limit/100k!)
 
 截至 2018-05-22 17:00 ，上述五个 App 最新版本的情况见 [CompetitiveAnalysisV1 - 微博搜索竞品分析追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1C59UgiXD8LW5CS9wNG3kB17_UvTVgJeKZF0ZudDigaQ/edit#gid=1835244465)：
 
@@ -117,7 +117,7 @@
 - 检索关键词后出现会出现置顶的 filters 导航 `综合/用户/实时/关注/视频/文章/图片/热门/印象/话题/主页/更多` ，很好，尤其这俩 filters:
 	- 「关注」：可只查看我关注（follow）的人对这件事的看法，隔离闲杂人等
 	- 「印象」：可方便了解全网对当前关键词的关注点有哪些，了解舆情
-		![coursespm-weibosearch.001.jpeg](http://ishanshan.qiniudn.com/share/coursespm-weibosearch.001.jpeg?imageMogr2/size-limit/100k!) 
+		![coursespm-weibosearch.001.jpeg](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch.001.jpeg?imageMogr2/size-limit/100k!) 
 	
 	- 这两标签技术含量对不高，但属其它平台没有的特性，是微博的独特价值。若想放大，可在「印象」中增加对「关注」内容里的词云呈现，便于用户快速了解所关注用户对某个关键词的的态度。如此更能吸引一波有研究诉求的用户。
 
@@ -129,7 +129,7 @@
 
 	测试时发现若有广告主买了对应关键词，则搜索时广告会霸占首屏。比如我检索「复仇者联盟」时结果如左下图：
 	
-	![coursespm-weibosearch.002.jpeg](http://ishanshan.qiniudn.com/share/coursespm-weibosearch.002.jpeg?imageMogr2/size-limit/100k!)
+	![coursespm-weibosearch.002.jpeg](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch.002.jpeg?imageMogr2/size-limit/100k!)
 	
 	看到这个我第一反应是「难度输错关键词了？」确认输入无误，且三天内检索了同一关键词四五次，我从没点击它还依然在，对微博和这个广告主印象分下降不少。推测其他用户也有类似体验。那这对微博和广告主来说都亏：于微博，没捞到钱，还损失了口碑；于广告主，花钱打市场，实际付费转化没多少，还掉了口碑。
 
@@ -141,7 +141,7 @@
 
 在该维度上，主要以豆瓣、IMDb 和微博比对。
 
-![coursespm-weibosearch.004.jpeg](http://ishanshan.qiniudn.com/share/coursespm-weibosearch.004.jpeg?imageMogr2/size-limit/100k!)
+![coursespm-weibosearch.004.jpeg](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch.004.jpeg?imageMogr2/size-limit/100k!)
 
 截至 2018-05-22 17:00 ，上述三个 App 最新版本的情况见 [CompetitiveAnalysisV2 - 微博搜索竞品分析追踪表 - Google 表格](https://docs.google.com/spreadsheets/d/1C59UgiXD8LW5CS9wNG3kB17_UvTVgJeKZF0ZudDigaQ/edit#gid=1709836654)：
 
@@ -153,7 +153,7 @@
 
 操作可类似豆瓣：
 
-![coursespm-weibosearch-douban3.png](http://ishanshan.qiniudn.com/share/coursespm-weibosearch-douban3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![coursespm-weibosearch-douban3.png](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch-douban3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
 
 
 
@@ -176,7 +176,7 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 - 了解某位用户的兴趣爱好：方便的搜索到某个指定用户（如喜欢的某个明星）赞过的所有事物。详见[搜索帮助](https://help.weibo.com/newtopic/search/list/1960?sudaref=help.weibo.com)中 `如何发现某用户（某明星）的兴趣爱好？`。 
 - 了解某几位用户的共同好友：输入你查询的用户微博昵称，就可以知道他们之间有没有共同好友啦：
 
-	![coursespm-weibosearch1.png](http://ishanshan.qiniudn.com/share/coursespm-weibosearch1.png)
+	![coursespm-weibosearch1.png](http://ishanshan.zoomquiet.top/share/coursespm-weibosearch1.png)
 
 此后若有研发能力，再做更多拓展，比如了解某位用户的关注点——对指定用户微博内容做词云分析等。
 

@@ -37,7 +37,7 @@ PS：在浏览器上安装视频倍速播放插件，看视频更自如。插件
 
 也许是自己过往的积累和特质的确适合做产品，即使状况频出，学得也很开心，常有心流。 Chap2 开始作业被评为优秀，之后就一路挂在优秀榜上，并在这个 145 人的训练营里成为五位优秀学员之一。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/Course3jkSPM/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。这可是产品经理和工程师扎堆的训练营啊(＾－＾)V 发现自己就这么点亮了新的技能树，开心~
 
-![coursespm-certificate.png](http://ishanshan.qiniudn.com/share/coursespm-certificate2.png)
+![coursespm-certificate.png](http://ishanshan.zoomquiet.top/share/coursespm-certificate2.png)
 
 （图中二维码地址：[策略产品经理的实战修炼（第二期）闪闪ishanshan](http://class.sanjieke.cn/h/4243443/115656)）
 

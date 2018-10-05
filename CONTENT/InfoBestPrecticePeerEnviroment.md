@@ -32,7 +32,7 @@
 
 比如[开智学堂的 Python 基础班，成功提交指定任务成果即可入学](https://github.com/AIHackers/PythonStartUp/issues/138)。如此，入学者通常已了解基础编程概念、会使用课程交流工具 GitHub ，并初步体验了这门课程提倡的学习模式——遇到问题先自己搜索、排查，解决不了及时正确求助。
 
-![infopythonstartuptask.png](http://ishanshan.qiniudn.com/share/infopythonstartuptask.png?imageView2/2/w/600)
+![infopythonstartuptask.png](http://ishanshan.zoomquiet.top/share/infopythonstartuptask.png?imageView2/2/w/600)
 
 **线上小班教学若能匹配合适同侪，效果加倍。找到水平相仿的同伴，不仅老师上课更有效率，课堂讨论气氛也更热烈。**
 
@@ -58,7 +58,7 @@
 
 那筛选门槛如何实现？——所有用户默认关注「得到精选」，这个账号每天都会转发 10-30 条用户分享的优质内容，相当于变相筛选、营造优质同侪环境：
 
-![getitannouncementdelstudygroup.jpg](http://ishanshan.qiniudn.com/share/getitannouncementdelstudygroup.jpg?imageView2/2/w/600)
+![getitannouncementdelstudygroup.jpg](http://ishanshan.zoomquiet.top/share/getitannouncementdelstudygroup.jpg?imageView2/2/w/600)
 
 （图片来自[“学习小组”功能下线，相约“知识城邦”，得到想干什么？ - 简书](https://www.jianshu.com/p/5e3ea6865250)）
 
@@ -69,7 +69,7 @@
 
 人们如何学习？在 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) h-index 以 136 位列第一的 [Richard E Mayer](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN) 教授归纳了 20 世纪至今三种主流隐喻：
 
-![infolearningmetaphors.png](http://ishanshan.qiniudn.com/clipping/infolearningmetaphors.png?imageView2/2/w/500)
+![infolearningmetaphors.png](http://ishanshan.zoomquiet.top/clipping/infolearningmetaphors.png?imageView2/2/w/500)
 
 （截图来自[Developing Multimedia for Learning - CIDDE_SIDI_2013](https://pdfs.semanticscholar.org/presentation/4eef/337cdb4ce0c591aea1833c77d8b536ea0af2.pdf)）
 
@@ -83,11 +83,11 @@
 
     比如自建作业提交平台的三节课，可以选择「只看优秀作业」：
     
-    ![sampleviewbestpractice3jk.gif](http://ishanshan.qiniudn.com/clipping/sampleviewbestpractice3jk.gif?imageView2/2/w/500)
+    ![sampleviewbestpractice3jk.gif](http://ishanshan.zoomquiet.top/clipping/sampleviewbestpractice3jk.gif?imageView2/2/w/500)
     
     借 GitHub 做作业提交平台的开智学堂，使用 GitHub Issues 的 filter ，即可筛选出被标为 `awesome` 的内容，批量查看：
     
-    ![sampleviewbestpracticegithub_1.gif](http://ishanshan.qiniudn.com/clipping/sampleviewbestpracticegithub_1.gif?imageView2/2/w/500)
+    ![sampleviewbestpracticegithub_1.gif](http://ishanshan.zoomquiet.top/clipping/sampleviewbestpracticegithub_1.gif?imageView2/2/w/500)
 
 2. **依据点赞降序排列**：得到图文、微信公众号底下评论显示依据大抵如此，效果截图略。
 
@@ -107,7 +107,7 @@
 
     具体做法：每期课程在 organization 下新建一个 GitHub 仓库，作为用户交流及提交作业的平台。用户 fork 这个课程主库，按里头的模板积累个人成果到子库中，提交成果链接到主库对应 Issue 。至此，便可像常规开发操作一样基于主题或对方具体成果交流互动。比如：
 
-    ![sampledashboard.png](http://ishanshan.qiniudn.com/share/sampledashboard.png?imageView2/2/w/600)
+    ![sampledashboard.png](http://ishanshan.zoomquiet.top/share/sampledashboard.png?imageView2/2/w/600)
 
     （截图来自 @小星 ）
 

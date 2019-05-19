@@ -71,7 +71,7 @@
 
 ![infolearningmetaphors.png](http://ishanshan.zoomquiet.top/clipping/infolearningmetaphors.png?imageView2/2/w/500)
 
-（截图来自[Developing Multimedia for Learning - CIDDE_SIDI_2013](https://pdfs.semanticscholar.org/presentation/4eef/337cdb4ce0c591aea1833c77d8b536ea0af2.pdf)）
+（截图来自[Developing Multimedia for Learning - CIDDE_SIDI_2013](http://ishanshan.zoomquiet.top/clipping/developing%20multimedia%20for%20learning.pdf)）
 
 为了使用户进入「Knowledge construction」这层隐喻的学习体验，大多课程都会给出练习任务，供用户 construct knowledge ，促进用户发生 `unknown unknown` -> `known unknown` -> `known known` 的实质转变。
 

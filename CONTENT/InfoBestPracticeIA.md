@@ -3,7 +3,7 @@
 
 ~ 持续汇总令自己舒坦的 Information Architecture 案例，以便越来越敏感哪种信息架构更优雅。
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->node
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
@@ -30,7 +30,7 @@
 
 何为卡片层级？为什么卡片层级对输出助益颇大？优雅趁手的卡片工具需满足什么要求？[卡片助力输入输出，工具我选 WorkFlowy | ishanshan's blog](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 已说过，这里不赘述。
 
-[WorkFlowy](https://workflowy.com/demo/embed/) 是目前我见过的卡片级别工具里最优雅趁手。究其核心奥秘，私以为是其只有唯一「实体」 `bullet` ，能自如缩进、拖动、折叠展开的 `bullet` ，简洁却可供性无穷。用户可以自由定义各 `bullet` 在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态。
+[WorkFlowy](https://workflowy.com/demo/embed/) 是目前我见过的卡片级别工具里最优雅趁手。究其核心奥秘，私以为是其只有唯一「实体」 `node` ，能自如缩进、拖动、折叠展开的 `node` ，简洁却可供性无穷。用户可以自由定义各 `node` 在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态。
 
 ### 反面案例
 
@@ -44,7 +44,7 @@
 
 这完全违背上述奥秘，也违背卡片层级需要方便移动、组合的根本诉求：写卡片写卡片，目的自在输出更高层级的作品，需易**整合**才宜创造。
 
-且这还带来一个负面影响：难以全文件检索，只能进入单个文件检索。即使未来实现，也定不如 WorkFlowy 的检索效果那般优雅：能呈现当前位置以下、目标字段的所有父层级 bullet ，便于了然全局——
+且这还带来一个负面影响：难以全文件检索，只能进入单个文件检索。即使未来实现，也定不如 WorkFlowy 的检索效果那般优雅：能呈现当前位置以下、目标字段的所有父层级 node ，便于了然全局——
 
 
 ![sample_workflowy_search.png](http://openmindclub.zoomquiet.top/ishanshan/sample_workflowy_search.png)

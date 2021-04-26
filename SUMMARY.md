@@ -14,6 +14,7 @@
         - [如何做竞品调研](CONTENT/HbCompetitiveAnalysis.md)
 - [杂记](CONTENT/ChapNotes.md)
     - [学习资源分享](CONTENT/IdxLearningRes.md)
+    - [✪为什么「美团买菜」如此重视用户反馈并快速迭代改进？](CONTENT/mur_strategy_meituanfood.md)
     - [✪这波内容付费平台困境出路会在哪?](CONTENT/TipsEduSuperficialProductChallenge.md)
     - [✪K12 头部产品如何高效增加复购？](CONTENT/TipsEduK12Effect.md)
     - [先做大功能模块，还是优化型需求？](CONTENT/MurStartupDevPriority.md)

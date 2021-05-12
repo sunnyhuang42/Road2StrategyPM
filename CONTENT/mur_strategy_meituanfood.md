@@ -38,16 +38,14 @@
 
 如果你想体验「美团买菜」，可以扫下述二维码，领取新人 108 元优惠券礼包：
 
-<<<<<<< HEAD:chapnotes/mur_strategy_meituanfood.md
-[![qr\_meituanfood.jpg](https://camo.githubusercontent.com/80123070b4dd93458b538101bd12e84c78f1e1de3124aa227c02ed4de0944798/687474703a2f2f697368616e7368616e2e7a6f6f6d71756965742e746f702f636c697070696e672f71725f6d65697475616e666f6f642e6a70673f696d61676556696577322f322f772f323530)](https://camo.githubusercontent.com/80123070b4dd93458b538101bd12e84c78f1e1de3124aa227c02ed4de0944798/687474703a2f2f697368616e7368616e2e7a6f6f6d71756965742e746f702f636c697070696e672f71725f6d65697475616e666f6f642e6a70673f696d61676556696577322f322f772f323530)
 
-=======
+
+
 ![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/250)
->>>>>>> parent of 19d3b12 (GitBook: [master] 74 pages modified):CONTENT/mur_strategy_meituanfood.md
 
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 210426 迭代完善更新到网上 0.5h
 - 210226 有感而发起草发到朋友圈 1h

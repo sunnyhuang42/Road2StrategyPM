@@ -38,9 +38,6 @@
 
 如果你想体验「美团买菜」，可以扫下述二维码，领取新人 108 元优惠券礼包：
 
-
-
-
 ![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/250)
 
 

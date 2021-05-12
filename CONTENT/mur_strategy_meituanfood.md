@@ -34,12 +34,6 @@
 注意：
 **本文不是投资建议**，各人情况各异，请为自己的投资决策负责。
 
-## PS.
-
-如果你想体验「美团买菜」，可以扫下述二维码，领取新人 108 元优惠券礼包：
-
-![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/250)
-
 
 
 ## CHANGELOG

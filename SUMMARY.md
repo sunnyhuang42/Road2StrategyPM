@@ -1,4 +1,4 @@
-<center> **产品开发修炼手记** </center>
+<center> 产品开发修炼手记 </center>
 
 <br>
 

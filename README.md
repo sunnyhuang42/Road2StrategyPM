@@ -14,6 +14,11 @@
 
 <br>
 
-Author: [@ishanshan](https://github.com/ishanshan) <br> Blog: https://ishanshan.im/ <br> Email: ishanshan.huang@gmail.com
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+## CHANGELOG
+
+- 2106010 更新 README 为新版
+- 1808 创建

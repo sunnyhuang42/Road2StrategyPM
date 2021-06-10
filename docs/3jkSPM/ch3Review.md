@@ -6,9 +6,9 @@
 
 主要心得如下：
 
-1. 如何高效做竞品调研，详见 https://road2strategypm.ishanshan.im/CONTENT/HbCompetitiveAnalysis.html
+1. 如何高效做竞品调研，详见 https://ishanshan.im/#/devpdt/HbCI
 
-2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 https://road2strategypm.ishanshan.im/CONTENT/Tips4StrategyPM.html
+2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 https://ishanshan.im/#/devpdt/Tips4StratPM
 
 3. 亚马逊的客户咨询细节很赞——可以选择邮件发送[聊天记录](devpro/3jkSPM/ch3Research.md)，以备不时之需，且客服相较其它公司更专业。
 
@@ -31,4 +31,5 @@
 
 ## CHANGELOG
 
+- 210610 闪闪修复链接
 - 180517 闪闪创建

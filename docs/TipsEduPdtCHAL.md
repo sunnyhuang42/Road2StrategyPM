@@ -27,7 +27,7 @@
 
 
 
-<br> 
+<br>
 
 直接思考「这波内容付费/轻在线教育平台，未来的困境和出路会在哪」，容易懵也容易飘。加之我并不企图寻找大而全的答案，于是换个角度，限定空间——走在最前面的平台，限定时间——未来 3-5 年。
 
@@ -48,38 +48,38 @@
 - **深度：高效满足目标用户深层需求——过上更好的生活、变成更好的自己，乃至进入更高社会阶层。**
 
     **效率是商业的本质**，用户乐意把注意力持续留给某个产品，一定是这款产品高效满足了他某个需求。
-    
+
     那「得到」目标用户的需求是什么？这群乐意花精力金钱来消费知识型产品的用户，肯定不是期待好似知道很多知识的满足感。私以为他们的深层需求，都是过上更好的生活、变成更好的自己，乃至进入更高社会阶层。
-    
+
     **如何满足这个需求？** 重在三点：
-    
+
     1）**能做出更优决策**<br> 2）**提升朋友圈质量**<br> 3）**提升技能才干**
-        
+
     其一，决策的差异将我们带往各自的生活，想过上更好的生活，离不开做出更优决策。如何令用户做出更优决策？最好提供多多优质信息——毕竟人和人的决策能力很难有量级差异，却容易在信息多寡优劣获得量级差异。这正是「得到」一直在做的，也是「得到」的优势。
-    
+
     其二，[人难免有惰性，最好借助社会结构让自己被动进步](https://36kr.com/p/5059401.html)。最近 App 改版下线「学习小组」上线「知识城邦」模块，属这方面创新有远见的尝试——「得到」平台源源不断的优质内容及与优质内容创造者的互动氛围，如脱不花所说，谈笑有鸿儒往来无白丁；这优质的信息环境和同侪环境，令用户尤其环境闭塞的用户获益良多。
-       
+
     其三，成为更好的自己，离不开技能才干切实提升。这是「得到」在尝试，但对大部分用户来说，效果还不算好的方面——用户的知识焦虑不减反增是一例证。面对如此优质的资源，高阶学习者可以快速为己所用，但初阶学习者则越发焦虑：的确知道了很多「unknown unknowns（不知道自己不知道的知识）」，可由于缺乏应用场景或习惯，难以掌握、转入「known knowns（知道自己知道）」的层级。日积月累，**「known unknowns（知道自己不知道）」的范围越来越大，恐慌焦虑也是必然**。
-        
+
     ![unknownunknown-matrix-2.jpg](http://openmindclub.zoomquiet.top/ishanshan/unknownunknown-matrix-2.jpg)
-        
+
     （The Unknown Unknown Matrix，图片摘自 [Why We’re Always On The Cusp Of Artificial General Intellegence – Solidifying Nebulous Ideas](https://solidifyingnebulousideas.com/2017/07/04/why-were-always-on-the-cusp-of-artificial-general-intellegence/)）
-        
+
     「得到」未来内容越来越多，这个矛盾也会愈发严峻，毕竟初阶学习者众。
-        
+
     要破这个困局，**需帮助用户从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)），从知道变为掌握——能迁移运用**。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），**意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动选择（selecting）、组织（organizing）和整合（integrating）**——
-        
+
     ![three cognitive processes_required_for_meaningful_learning.png](http://openmindclub.zoomquiet.top/ishanshan/three%20cognitive%20processes_required_for_meaningful_learning.png?imageView2/2/w/500)
-        
+
     （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
-    
+
     此外，**不仅让以上变化发生，还令用户切身感受到变化，才易保有用户注意力**。
 
 两种策略，深度优先。因为即使用户群扩大，未来迟早面临如何持续保有用户注意力的问题。好比边加大进水边漏水，不如先集中精力练就造个好水桶的技艺，再拓宽水源。
 
 如此，**「得到」若想未来 3-5 年不被木桶理论所困，需要开始补短版，高效帮助用户提升技能才干**。而相较经验主义，**借助认知科学、学习科学、心理学与脑科学的前沿进展与经典研究，无疑是上策**。
 
-<br> 
+<br>
 
 那具体如何高效帮助用户提升技能才干？我试着借认知科学和学习科学原理，抛出一些方向。依然以「得到」为例。
 
@@ -96,14 +96,14 @@
         1. **大脑有很强的模式处理能力**，善于在事物之间找不同，不善于在一个问题上深入思考。比如让一个小朋友了解猫这种动物，把好几只猫放一块儿，相较只展示一只猫，他更易明了猫这种动物是怎样的，不同猫有什么区别。
         2. **大脑爱脑补**。「汉字序顺并不一定影阅响读」，当你阅读这句话时，大脑自动脑补成正确语义；当你看到三根并非连续的线条，你会将其脑补成一个三角形；当你跳读时，大脑会自动根据已知信息思考其中关联，并留意验证推测是否准确，如此，你不但更易集中注意力，也更省时间。
     - 加上普世的 20/80 法则，一般通过 20% 左右的节点，即可获取 80% 左右高质量信息。
-    - 综上，**如果想高效地主动学习（active processing），其实最省力的办法是批量阅读、主题学习——同时读某个主题的一堆书，跳读而非循规蹈矩、按篇章次序阅读，更不要一次只读一本书**。具体如何操作，https://road2strategypm.ishanshan.im/Course3jkSPM/Chap5Task.html 中部举有几个例子。
+    - 综上，**如果想高效地主动学习（active processing），其实最省力的办法是批量阅读、主题学习——同时读某个主题的一堆书，跳读而非循规蹈矩、按篇章次序阅读，更不要一次只读一本书**。具体如何操作，[✪Task:设计网易蜗牛读书增长方案](https://ishanshan.im/#/devpdt/3jkSPM/ch5Task?id=%e6%9c%ba%e4%bc%9a%ef%bc%88opportunity%ef%bc%89) 中部举有几个例子。
 - **为什么适合「得到」？**
     - 「得到」内容总体来说非虚构类偏多，并已有大量电子书、听书及其它精华内容，且检索便利；用户也有高效学习的需求；这样的条件非常适合主题阅读。
     - 用户一旦上手尝到甜头（发现的确可以高效解决问题），并意识到这是一套终身受益的技能，便难以舍弃。
     - 如果做成，利于用户把「得到」拎出 音频/专栏平台所在的「贩卖焦虑」阵营。
     - **风险在**「主题阅读获取知识更高效」反常识，且「主题阅读」这个行动对大部分用户来说比较陌生，**需要教育用户**。**不过这类引领用户学习行为是「得到」适合做也常做的，风险可控，甚至加分**。如最近把专栏及课程模块的内容条目，从点击题目播放音频，改为点击题目查看文稿；再如取消 App 内文字「标注」选项，令用户想做标记只能选择「记笔记」，并增加了引导语「研究表明，哪怕每次只输入一个字符，也能大幅提高学习效果」。
     - **总体来说「引导用户主题阅读」是一个能拓宽「得到」护城河**（做内容付费和在线教育的平台，没自己的在线图书馆；做数字阅读的平台，没那么多名家持续贡献优质内容），**且高 ROI 的优化方向**。且如果真能实现，还**可迁移借鉴至「少年得到」，使新一代青少年从小有主题阅读意识、养成主动学习（active processing）习惯，这无疑是一个激动人心的尝试，且复利极高**。
-    
+
 
 **加之目前在「得到」上获取内容，还存在一些非常不舒服的体验**，前俩尤甚：
 
@@ -119,8 +119,8 @@
 
 #### 阶段一：优化内容获取体验，联动听书与电子书模块
 
-行动要点： 
- 
+行动要点：
+
 - **电子书模块向听书看齐**，包括：
   - 收费模型：可单本购买，也可包月/包年获得借阅权限；甚至可以和听书卡打包优惠购买。
   - 页面信息架构：有包月/包年信息、搜索框、分类、书单、猜你喜欢等。
@@ -153,12 +153,12 @@
 行动要点：
 
 - 上线线上线下传播活动，促进更多用户了解主题阅读模式，尝到主题阅读的益处，开始在「得到」里进行主题阅读。
-- 如有拉新需求，可以此为拉新入口，从出行场景争夺用户注意力。增长策略可参见 https://road2strategypm.ishanshan.im/Course3jkSPM/Chap5Task.html 拙见。
+- 如有拉新需求，可以此为拉新入口，从出行场景争夺用户注意力。增长策略可参见 [Task:设计网易蜗牛读书增长方案](https://ishanshan.im/#/devpdt/3jkSPM/ch5Task) 拙见。
 
 注意：此阶段行动不必等待阶段二结束再开始筹备，可在阶段二甚至更早开始筹划。
 
 
-#### 阶段四：借鉴上述模式优化「少年得到」 
+#### 阶段四：借鉴上述模式优化「少年得到」
 
 行动要点：
 
@@ -215,7 +215,7 @@
         * [第576期 | 终身学习，学什么？](https://m.igetget.com/share/course/article/article_id/82109)
         * [第577期 | 回到“本来面目”](https://m.igetget.com/share/course/article/article_id/82122)
         * [第578期 | 递进式创新](https://m.igetget.com/share/course/article/article_id/82147)
-    
+
 哈哈估计很多从业者始料未及——内容付费公司为什么要做如此重运营的业务？
 
 我虽然已推测「得到」迟早要解决学习效果的问题，但没料到会这么快开辟重服务课程路线。不管怎样，很高兴看到内容付费头部产品拥抱教育，也很佩服这家公司的行动魄力与速度。这个项目在我之前提的三个维度都有新突破：
@@ -227,11 +227,10 @@
 具体如何让主动学习（active processing）发生，助用户从被动的信息接收者，转变为意义的主动建构者，并能迁移运用所学，有效满足深层需求——过上更好的生活、变成更好的自己，乃至进入更高社会阶层，拭目以待：D
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180924 修复 Mayer 的 HILT 演讲幻灯链接
 - 180914 增补后记
 - 180826 更新
 - 180822 增补
 - 180815 创建
-

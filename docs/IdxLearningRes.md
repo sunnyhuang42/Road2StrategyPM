@@ -6,7 +6,7 @@
 
 新手策略产品经理如何快速了解常规工作状态？
 
-- 上课。推荐[三节课的策略产品经理训练营](https://road2strategypm.ishanshan.im/Course3jkSPM/ChapCourseStrategyPM.html)，了解业内策略产品工作常见 Case ，并做些实战任务。
+- 上课。推荐[三节课的策略产品经理训练营](devpdt/3jkSPM/intro.md)，了解业内策略产品工作常见 Case ，并做些实战任务。
 - 翻自己认可的产品前辈写的文章，现在很多付费订阅专栏，底下的留言讨论也利于了解当下产品经理工作常见困扰。比如
     - [邱岳的产品手记](http://stuq.com/a/100t1)、[产品实战](http://stuq.com/a/100t2)：了解国内互联网产品经理的工作状态和要求
     - [曲晓音的硅谷产品实战 36 讲](http://stuq.com/a/1001u)：了解硅谷的产品经理工作状态和要求
@@ -30,7 +30,7 @@
 
 Python
 
-- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/preface.html): 
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/preface.html):
     - Python 入门经典教材，简洁易懂，跟着敲一遍便对编程基本概念心中有数。Study Drills 板块内容精彩且能加深对练习的理解，别偷懒跳过。
     - 最后有 CLI 快速入门指南 [Appendix A: Command Line Crash Course](https://learnpythonthehardway.org/python3/appendixa.html)，之前没接触 CLI 的建议先看这部分。
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): 里头的例子更实用有趣，易改编成自己能用上的脚本，适合与 LPTHW 搭配使用。也看看不同作者如何引导大伙掌握同一个东西。
@@ -49,7 +49,7 @@ SQL: [SQL Tutorial-w3schools.com](https://www.w3schools.com/sql/default.asp)
 1. [《会读才会写》](https://book.douban.com/subject/26655043/)，主要关注论文常见组块，了解应该关注那些组块。
 2. [《研究生完全求生手册》](https://book.douban.com/subject/27108502/)，了解应该如何主题阅读某个领域的论文、提出新见解。若不方便看，可翻作者[彭明辉教授给他研究生的这份 PDF](http://cardstatic.openmindclub.com/share/hblabppsc_m%20h.%20perng.pdf) 。
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180829 闪闪增补资源
 - 180816 闪闪创建

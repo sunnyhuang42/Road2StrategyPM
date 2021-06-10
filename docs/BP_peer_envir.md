@@ -82,17 +82,17 @@
 1. **一键筛选优秀成果**：
 
     比如自建作业提交平台的三节课，可以选择「只看优秀作业」：
-    
+
     ![sampleviewbestpractice3jk.gif](http://ishanshan.zoomquiet.top/clipping/sampleviewbestpractice3jk.gif?imageView2/2/w/500)
-    
+
     借 GitHub 做作业提交平台的开智学堂，使用 GitHub Issues 的 filter ，即可筛选出被标为 `awesome` 的内容，批量查看：
-    
+
     ![sampleviewbestpracticegithub_1.gif](http://ishanshan.zoomquiet.top/clipping/sampleviewbestpracticegithub_1.gif?imageView2/2/w/500)
 
 2. **依据点赞降序排列**：得到图文、微信公众号底下评论显示依据大抵如此，效果截图略。
 
 
-当然，练习任务设置也有优劣，怎样设置练习任务更易达到教学目标？见 https://road2strategypm.ishanshan.im/CONTENT/InfoBestPracticeAssignmentDesign.html .
+当然，练习任务设置也有优劣，怎样设置练习任务更易达到教学目标？见 [怎样设置练习任务更易达到教学目标](devpdt/BP_asgmt_des.md).
 
 
 ## 呈现同侪动态
@@ -118,7 +118,7 @@
 写到这里，忽然明白，为何提供优质同侪环境的线上课程平台少之又少，国外线上教学产品更是鲜见优质同侪氛围——要想做好，对团队技术和运营的能力要求都挺高……
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180816 闪闪增补案例发布
 - 180805 闪闪整理成文、补充案例

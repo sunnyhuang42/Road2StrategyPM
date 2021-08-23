@@ -1,8 +1,11 @@
-# 美团的战略意图
+# 为什么「美团买菜」如此重视用户反馈并快速迭代改进 · 无意窥见美团的战略意图
+发布于 2021-02-26
+
+<br> 
 
 > 亲爱的会员，特别开心为您的第 40 次订单服务~请放心地把您的餐桌交给我们，下次见！
 
-![ticket_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/ticket_meituanfood.jpg?imageView2/2/w/400)
+![ticket_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/ticket_meituanfood.jpg?imageView2/2/w/500  ':size=200')
 
 
 
@@ -12,7 +15,11 @@
 
 这些都是用美团点外卖或在别的商家买菜时，很少有的待遇。
 
+<br> 
+
 之前我只意识到，这估计是因为「美团买菜」是美团近期的战略重点（刚查了一下，的确是——“[​美团高管解读2020Q2财报：生鲜零售业务具有战略意义，继续坚定投入](https://www.36kr.com/p/850033884042761)”）。
+
+<br> 
 
 现在忽然意识到背后的 why —— **承包用户餐桌，客户终生价值（CLV ~ [Customer Lifetime Value](https://en.wikipedia.org/wiki/Customer_lifetime_value)） 真的好高**：
 
@@ -24,25 +31,29 @@
 
 加上美团本来就有外卖配送和地推的本地资源优势，以及海量外卖用户，拓展相邻可能发展这条第二曲线，也是水到渠成。
 
+
+<br> 
+
 这么想来，再看报道里的这句话，也更理解是在说什么：
 
 > 美团CEO王兴表示，生鲜零售对我们来说是一个具有战略意义的新业务。目前，中国生鲜零售的线上化率低，市场潜力巨大。
 
 无怪这个赛道现在玩家众多，但美团经历过千团大战……想到这里，嗯，打算多配置些有美团股票的资产 👻
 
+<br> 
 
-注意：
+!> 注意：<br> 
 **本文不是投资建议**，各人情况各异，请为自己的投资决策负责。
 
 ## PS.
 
 如果你想体验「美团买菜」，可以扫下述二维码，领取新人 108 元优惠券礼包：
 
-![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/300)
+![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/300  ':size=150')
 
 
 
 ## CHANGELOG
 
-- 210426 迭代完善更新到网上 0.5h
+- 210426 迭代完善更新到博客 0.5h
 - 210226 有感而发起草发到朋友圈 1h
